@@ -26,7 +26,7 @@ Checkout and enquiry forms save a clearly labelled local request and download it
 
 The workbook's entire `Our price` column is empty. Its market ranges appear as guide prices. Workbook entries without a market price and all 48 new options show `Price on request`. The single-sheet calendar has only a starting value. Cart totals are indicative, and identify incomplete ranges. Personalisation, taxes, delivery and actual minimum quantities require confirmation. INR is assumed for the preview and must be confirmed before publication.
 
-The hero and six new product photos are AI-generated concepts. Product personalisation uses the existing illustrative mockups. Product imagery shows design concepts.
+All 127 listings use distinct AI-generated studio product concepts. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions and generation prompts. The WebP image sheets are in `dist/assets/products/` and `dist/assets/catalogue-photos.webp`.
 
 ## Reference sites reviewed
 
@@ -40,7 +40,7 @@ The design and code are original; no reference site's assets, templates or testi
 
 `dist/index.html` is a buildless version with separate CSS, JavaScript and assets. Use any static server with `dist` as its document root. There are no npm dependencies.
 
-Run `python build.py` after editing `dist/styles.css`, `dist/artwork.js`, `dist/app.js`, `dist/template.html`, `catalogue.json` or `catalogue-additions.json`. It combines the workbook entries with the new items, then recreates `dist/index.html` and the self-contained `INKBYTE-preview.html`.
+Run `python build.py` after editing the catalogue, product photo manifest, page template, styles or scripts. It checks that each product has exactly one photo, then recreates `dist/index.html` and the self-contained `INKBYTE-preview.html`.
 
 The original workbook is not published in the repository. The generated catalogue records the source sheet and row for audit. To regenerate from your own copy, run `python catalogue.py /absolute/path/to/workbook.xlsx`, then run `python build.py`.
 

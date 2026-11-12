@@ -1,0 +1,296 @@
+{
+  "generation": "Built-in image generation",
+  "sheets": [
+    {
+      "id": "gifting-showcase",
+      "src": "assets/catalogue-photos.webp",
+      "width": 1536,
+      "height": 1024,
+      "columns": 3,
+      "rows": 2,
+      "products": [
+        "travel-tumbler-handle",
+        "bamboo-click-pen",
+        "zip-up-hoodie",
+        "foil-wedding-invitation-suite",
+        "new-starter-welcome-kit",
+        "matte-kiss-cut-sticker-sheets"
+      ]
+    },
+    {
+      "id": "desk-gifts",
+      "src": "assets/products/desk-gifts.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g02",
+        "soft-touch-ballpoint",
+        "g03",
+        "a5-hardcover-notebook",
+        "undated-weekly-planner",
+        "g05",
+        "engraved-metal-keyring",
+        "acrylic-logo-keychain",
+        "cotton-drawstring-pouch"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a premium polished brushed silver metal ballpoint pen with dark blue barrel and chrome clip, arranged diagonally with its presentation sleeve.\nRow 1, centre: a charcoal black rubberised soft-touch click ballpoint pen with matte body and yellow clicker, diagonally lit.\nRow 1, right: a closed classic dark blue softcover notebook with rounded corners, yellow ribbon bookmark and visible cream page edges.\nRow 2, left: an open A5 navy hardcover notebook showing crisp lightly ruled ivory pages and thick cover.\nRow 2, centre: an open spiral-bound pale yellow weekly planner, simple undated seven-column grid and blank writing spaces.\nRow 2, right: a premium polished rectangular leather and chrome keychain with ring, navy leather insert.\nRow 3, left: a brushed silver circular engraved metal keyring with a tiny geometric engraving, gleaming steel ring.\nRow 3, centre: a clear custom-cut acrylic keychain with blue and sunflower yellow geometric print and a silver split ring.\nRow 3, right: a small unbleached cotton drawstring pouch with thick cotton cords and subtle navy print, with the pouch closed."
+    },
+    {
+      "id": "workstation",
+      "src": "assets/products/workstation.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g06",
+        "foldable-phone-stand",
+        "bamboo-phone-stand",
+        "g07",
+        "screen-spray-cloth-kit",
+        "travel-electronics-cleaning-kit",
+        "g10",
+        "potted-jade-plant",
+        "terracotta-succulent"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: an upright minimalist desktop mobile phone holder in blue aluminium, holding a slim black smartphone upright.\nRow 1, centre: a portable dark charcoal articulated folding phone stand with visible hinge, shown open and carrying a phone tilted back.\nRow 1, right: a natural bamboo desktop phone stand with a slot and a phone resting horizontally, visible bamboo grain.\nRow 2, left: a laptop and mobile cleaning kit containing a spray bottle, soft brush and folded pale blue microfiber cloth, neatly arranged.\nRow 2, centre: one small clear screen-cleaning spray bottle and a neatly folded deep blue microfiber cloth, two-piece set.\nRow 2, right: a compact open dark fabric travel pouch containing electronics-cleaning brush, small spray and swabs.\nRow 3, left: a small green rosette succulent in a simple matte ivory ceramic pot, neat desktop plant.\nRow 3, centre: a small branching jade plant with plump oval green leaves, in a blue ceramic desk pot.\nRow 3, right: a small succulent rosette in a textured terracotta planter, orange earthenware and natural grit."
+    },
+    {
+      "id": "drinkware-and-shopper",
+      "src": "assets/products/drinkware-and-shopper.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g04",
+        "cold-cup-straw",
+        "g09",
+        "two-tone-ceramic-mug",
+        "camp-mug",
+        "g11",
+        "stainless-sports-bottle",
+        "glass-sleeve-bottle",
+        "recycled-cotton-shopper"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a navy insulated coffee tumbler with smooth tapered stainless body and sliding sip lid, no handle.\nRow 1, centre: a clear reusable iced drink cup with transparent lid and long yellow reusable straw, with subtle blue print.\nRow 1, right: a classic bright white ceramic branded coffee mug with a simple navy geometric mark and rounded handle.\nRow 2, left: a two-tone ceramic coffee mug, white exterior and glossy golden-yellow interior and handle, view from above.\nRow 2, centre: an insulated navy camp mug with steel rim, sturdy handle and lid resting beside it.\nRow 2, right: a tall personalised matte powder-blue water bottle with screw cap, simple white mark.\nRow 3, left: a brushed stainless steel sports bottle with dark flip spout and carry loop.\nRow 3, centre: a transparent glass water bottle with blue silicone grip sleeve around the bottom and bamboo-style screw cap.\nRow 3, right: a roomy natural recycled cotton shopper with blue woven handles and understated navy print."
+    },
+    {
+      "id": "bags-and-shirts",
+      "src": "assets/products/bags-and-shirts.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g08",
+        "g44",
+        "g45",
+        "g46",
+        "zip-top-canvas-tote",
+        "gusseted-jute-shopper",
+        "g26",
+        "g27",
+        "g28"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a natural coarse-woven jute and canvas shopper with stitched seams, jute texture and natural webbing handles.\nRow 1, centre: a lightweight cream cotton tote bag, simple long handles and small navy graphic, laid flat.\nRow 1, right: a thick tan jute shopping bag with chunky rope handles, woven fibres and broad structured body.\nRow 2, left: a heavy unbleached canvas carry bag with straight seams and navy cotton handles, laid neatly.\nRow 2, centre: a blue structured canvas tote bag with a visible zipped top and two cream handles, open slightly to show zipper.\nRow 2, right: a boxy tan gusseted jute shopper at three-quarter angle, broad side gusset and flat base clearly visible.\nRow 3, left: a full short-sleeve navy cotton crew-neck T-shirt laid flat, round ribbed collar clearly visible.\nRow 3, centre: a pale blue short-sleeve polo T-shirt laid flat, with fold-over collar and short two-button placket.\nRow 3, right: a boxy oversized cream T-shirt laid flat with dropped shoulders and broad sleeves."
+    },
+    {
+      "id": "apparel-and-welcome",
+      "src": "assets/products/apparel-and-welcome.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g29",
+        "g30",
+        "g31",
+        "long-sleeve-crew-neck-tee",
+        "contrast-trim-polo",
+        "g48",
+        "crew-neck-sweatshirt",
+        "g13",
+        "g14"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a short sleeve charcoal V-neck cotton T-shirt laid flat, clean pointed V neckline fully visible.\nRow 1, centre: a sleeveless navy tank top with wide armholes and scoop neckline, laid flat.\nRow 1, right: a blue moisture-wicking sports T-shirt laid flat, perforated mesh texture and athletic seam panels.\nRow 2, left: a charcoal long-sleeve crew-neck T-shirt laid flat, both long sleeves fully visible.\nRow 2, centre: a navy polo shirt with sunflower yellow contrast trim on collar and short cuffs, collar and buttons visible.\nRow 2, right: a navy pullover hoodie with drawstrings and kangaroo pocket, folded alongside a pale cream sweatshirt.\nRow 3, left: a charcoal crew-neck sweatshirt with ribbed neck, waistband and cuffs, no hood, laid flat.\nRow 3, centre: an open compact kraft presentation box with exactly two gift items: a navy diary and a silver metal pen.\nRow 3, right: an open dark-blue gift box with exactly three items: a cream diary, silver pen and navy insulated water bottle."
+    },
+    {
+      "id": "gifting-hampers",
+      "src": "assets/products/gifting-hampers.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g15",
+        "g16",
+        "g17",
+        "event-speaker-thank-you-kit",
+        "g19",
+        "g20",
+        "g21",
+        "g22",
+        "g23"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: an open navy presentation box with exactly a dark blue diary, metal pen and polished silver keychain.\nRow 1, centre: a cream gift box containing a navy diary, yellow pen and white handled ceramic coffee cup.\nRow 1, right: a dark blue gift box containing a beige diary, blue pen and a navy handleless lidded travel tumbler.\nRow 2, left: an open event speaker thank-you kraft gift box holding a white handled mug, a navy notebook and a small elegant folded blank thank-you card.\nRow 2, centre: a premium open square dry-fruit presentation box with exactly four neat compartments of almonds, cashews, pistachios and raisins.\nRow 2, right: an open festive gift box with a white handled coffee cup and exactly two clearly separated compartments of dry fruits.\nRow 3, left: a premium open rectangular dry-fruit gift box with exactly six separated compartments in two rows of three, each a different dry fruit or nut.\nRow 3, centre: an open blue and gold gift box with a dark-blue lidded travel tumbler and two clearly separate dry-fruit portions.\nRow 3, right: a three-section festive dry-fruit gift box showing exactly three equal compartments of almonds, cashews and golden raisins."
+    },
+    {
+      "id": "calendars",
+      "src": "assets/products/calendars.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g34",
+        "g35",
+        "g36",
+        "g37",
+        "g38",
+        "g39",
+        "g40",
+        "tent-desk-calendar",
+        "tear-off-desk-pad-calendar"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: one single-sheet wall calendar hanging from a small metal eyelet, all twelve compact month blocks arranged on one ivory sheet.\nRow 1, centre: a monthly flip wall calendar with silver wire hanger, current full month spread over the lower page and abstract blue photograph area above.\nRow 1, right: an A3 large-format wall calendar clipped to a studio wall, generous tall format and broad blue header, one legible-looking grid.\nRow 2, left: a small spiral-bound standing desk calendar, silver wire binding along top edge, navy paper base.\nRow 2, centre: a wooden-base desk calendar, individual unbound cream month cards slotted upright into an oak wood block.\nRow 2, right: an acrylic desk calendar, clear acrylic display frame with polished transparent edges holding a minimalist month card.\nRow 3, left: an eco-style freestanding calendar made from recycled kraft card stock with visible paper texture and natural fibre base.\nRow 3, centre: a simple freestanding triangular folded-card tent calendar without metal spiral binding, navy face with ivory date grid.\nRow 3, right: a flat large tear-off paper desk pad calendar with square monthly writing boxes and stacked peel-away paper edges."
+    },
+    {
+      "id": "wedding-stationery",
+      "src": "assets/products/wedding-stationery.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p03",
+        "p04",
+        "p05",
+        "p06",
+        "p07",
+        "p08",
+        "p09",
+        "p10",
+        "p11"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a traditional Indian wedding invitation suite in deep maroon and gold with tasteful ornate mandala border and matching envelope.\nRow 1, centre: a luxurious royal wedding card on dark navy thick stock with embossed metallic gold botanical ornaments and matching envelope.\nRow 1, right: a clean minimalist cream wedding invitation and plain pale blue envelope, generous unprinted space and restrained typography-like detailing.\nRow 2, left: a floral wedding invitation with printed watercolor flowers at corners, blush and ivory envelope suite.\nRow 2, centre: an open luxurious rigid wedding invitation presentation box with an invitation insert and ivory satin ribbon.\nRow 2, right: a rolled ivory wedding invitation scroll with gold rod ends and elegant blue ribbon, beside its slim presentation case.\nRow 3, left: a laser-cut ivory lace wedding invitation jacket with intricate open cutwork over a blue paper insert.\nRow 3, centre: a rigid translucent acrylic wedding card with polished transparent edges and subtle gold line ornament on an envelope.\nRow 3, right: an eco-style wedding invitation on natural fibre kraft paper tied with twine and a dried botanical sprig."
+    },
+    {
+      "id": "invitations-and-envelopes",
+      "src": "assets/products/invitations-and-envelopes.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p12",
+        "p13",
+        "p14",
+        "vellum-wrap-wedding-invitation",
+        "p50",
+        "window-business-envelopes",
+        "lined-invitation-envelopes",
+        "tea-honey-hamper",
+        "sweet-savoury-festive-box"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a printed wedding photo invitation with a modest editorial photograph of a fictional couple on a small portion of the card and an ivory envelope.\nRow 1, centre: a destination wedding invitation with a subtle illustrated coastal landscape and matching ticket-like insert on cream stock.\nRow 1, right: a modern smartphone on an ivory tabletop showing a digital wedding invitation design in dark blue and golden floral accents, no printed card.\nRow 2, left: an ivory wedding invitation wrapped in visibly translucent frosted vellum with a navy wax seal.\nRow 2, centre: a small stack of standard ivory business envelopes, one reversed to show the ordinary triangular flap.\nRow 2, right: white business envelopes with a transparent rectangular address window clearly visible on the front.\nRow 3, left: an open blue invitation envelope with visible printed gold botanical liner, alongside a cream note card.\nRow 3, centre: a small open kraft tea and honey gift box with loose leaf tea tin, small glass honey jar and wooden honey dipper.\nRow 3, right: an open festive blue-and-gold box containing separate bite-size Indian sweets and savoury snack portions."
+    },
+    {
+      "id": "flyers",
+      "src": "assets/products/flyers.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20",
+        "p21",
+        "p22",
+        "p23",
+        "p24"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: one flat single-sided printed flyer with navy and yellow graphic design, one face only visible, crisp thin sheet.\nRow 1, centre: a double-sided flyer with two copies angled to show coordinated but distinctly different front and back printed layouts.\nRow 1, right: tall narrow DL flyers with a slim one-third-page format, elegant navy and yellow layouts, a small stack.\nRow 2, left: an A4 size portrait promotional flyer, roughly standard letter-page proportions, with attractive blue and yellow print blocks.\nRow 2, centre: a large A3 print flyer on a studio table with visibly broad poster-size layout and bold navy graphics.\nRow 2, right: an open tri-fold leaflet with exactly three equal connected vertical panels, fold creases clearly visible.\nRow 3, left: an open bi-fold brochure with exactly two equal connected panels and a single central fold, coordinated navy and cream graphics.\nRow 3, centre: a die-cut printed promotional flyer with a distinctive curved irregular contour and yellow printed border.\nRow 3, right: a colorful event promotion flyer featuring bold yellow and dark blue shapes and a subtle abstract stage-light motif."
+    },
+    {
+      "id": "brochures-and-catalogues",
+      "src": "assets/products/brochures-and-catalogues.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p25",
+        "p26",
+        "p27",
+        "a5-handout-flyer",
+        "z-fold-leaflet",
+        "p28",
+        "saddle-stitched-product-booklet",
+        "perfect-bound-lookbook",
+        "p52"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a printed café menu flyer, a single cream sheet with tasteful columns and small food photos.\nRow 1, centre: a real-estate property marketing flyer with a clean modern apartment photo, floor-plan inset and blue brand stripe.\nRow 1, right: a formal corporate flyer with business imagery and clean blue-and-white geometric columns.\nRow 2, left: a small A5 handout flyer, compact cream paper with simple yellow and navy promotional artwork.\nRow 2, centre: a three-panel accordion Z-fold leaflet standing partially open so the distinct zigzag profile is visible.\nRow 2, right: an open glossy printed product catalogue displaying an orderly grid of realistic product pictures on two pages.\nRow 3, left: a thin saddle-stitched product booklet open along its spine, two small silver staples visibly binding folded pages.\nRow 3, centre: a premium thick perfect-bound softcover lookbook with a flat glued spine and clean photographic cover, visible page block.\nRow 3, right: several individually cut branding stickers and printed product labels in simple navy and yellow geometric designs, laid out on ivory."
+    },
+    {
+      "id": "business-cards-finishes",
+      "src": "assets/products/business-cards-finishes.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p32",
+        "p33",
+        "p34",
+        "p35",
+        "p36",
+        "p37",
+        "p38",
+        "p39",
+        "p40"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a small stack of standard matte rectangular visiting cards in dark navy and white with a simple generic graphic, low-glare surface.\nRow 1, centre: a stack of glossy navy visiting cards, clean crisp light reflection on their coated print surface.\nRow 1, right: two matching double-sided visiting cards placed to show different front and back designs, one navy side and one cream side.\nRow 2, left: thick high-GSM premium visiting cards stacked with a clearly visible substantial paper edge and clean squared corners.\nRow 2, centre: a matte navy visiting card with selective glossy spot-UV mark reflecting soft light while the rest of the stock stays matte.\nRow 2, right: a tactile white embossed visiting card and a debossed cream card with small raised and recessed geometric emblems.\nRow 3, left: brown kraft visiting cards with natural recycled paper texture and understated navy printed mark.\nRow 3, centre: textured cotton-paper business cards in ivory with clearly visible cotton fibres and subtly pressed design.\nRow 3, right: translucent thick acrylic visiting cards with polished transparent edges and simple blue marks, contrasting against a cream table."
+    },
+    {
+      "id": "business-cards-and-letterheads",
+      "src": "assets/products/business-cards-and-letterheads.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p41",
+        "p42",
+        "p43",
+        "p44",
+        "foil-stamped-visiting-cards",
+        "rounded-corner-visiting-cards",
+        "p46",
+        "textured-letterheads",
+        "kraft-letterheads"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 3 equal columns and 3 equal rows, 9 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: two thin PVC plastic visiting cards, opaque blue plastic with flexible-looking smooth clean surface and simple small graphic.\nRow 1, centre: custom die-cut shape visiting cards with an irregular clipped and curved outline, blue and yellow stock.\nRow 1, right: two square visiting cards with exactly square proportions, one navy and one cream, clean generic branding.\nRow 2, left: a cream visiting card with a large visible printed QR-like square pattern and a navy graphic line, close packshot.\nRow 2, centre: a stack of navy visiting cards with crisp reflective gold foil-stamped geometric mark and simple border.\nRow 2, right: a small stack of ivory and blue visiting cards with clearly rounded corners, pale yellow branding accent.\nRow 3, left: standard white company letterheads on A4 sheets with simple thin navy header and plenty of blank writing space.\nRow 3, centre: ivory textured stationery letterhead sheets with visible fine paper grain and minimal blue top mark.\nRow 3, right: brown kraft paper letterhead sheets with visible fibres and dark blue header, blank body."
+    },
+    {
+      "id": "stamps-and-vinyl",
+      "src": "assets/products/stamps-and-vinyl.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 2,
+      "rows": 2,
+      "products": [
+        "p48",
+        "self-inking-logo-stamp",
+        "pocket-stamp",
+        "vinyl-product-labels"
+      ],
+      "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 2 equal columns and 2 equal rows, 4 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a classic manual rubber stamp with wooden handle beside a small separate black ink pad, generic stamp mark on paper.\nRow 1, right: a rectangular blue self-inking logo stamp with visible plastic mechanism and a small printed generic logo impression beside it.\nRow 2, left: a compact black folding pocket stamp opened to show its rubber stamp surface, small travel-size proportions.\nRow 2, right: a partly unrolled roll of durable-looking glossy white vinyl product labels with navy and yellow artwork beside an unbranded jar."
+    }
+  ]
+}

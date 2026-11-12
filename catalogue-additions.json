@@ -9,8 +9,7 @@
       "ballpoint",
       "stationery"
     ],
-    "colour": "#977251",
-    "photo": 1
+    "colour": "#977251"
   },
   {
     "id": "soft-touch-ballpoint",
@@ -63,7 +62,6 @@
       "cup"
     ],
     "colour": "#2c5d87",
-    "photo": 0,
     "featured": true
   },
   {
@@ -272,7 +270,6 @@
       "gift box"
     ],
     "colour": "#2c5d87",
-    "photo": 4,
     "featured": true
   },
   {
@@ -405,7 +402,6 @@
       "teamwear"
     ],
     "colour": "#2c5d87",
-    "photo": 2,
     "featured": true
   },
   {
@@ -446,7 +442,6 @@
       "wedding stationery"
     ],
     "colour": "#ffc83d",
-    "photo": 3,
     "featured": true
   },
   {
@@ -615,8 +610,7 @@
       "kiss cut",
       "sheet"
     ],
-    "colour": "#2c5d87",
-    "photo": 5
+    "colour": "#2c5d87"
   },
   {
     "id": "vinyl-product-labels",

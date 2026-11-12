@@ -23,15 +23,46 @@ for item in additions:
         'isNew': True,
     })
 
+products = {item['id']: item for item in data['products']}
+photo_manifest = json.loads((ROOT / 'product-photos.json').read_text(encoding='utf-8'))
+photo_sheets = {}
+photographed = set()
+
+for sheet in photo_manifest['sheets']:
+    key = sheet['id']
+    if key in photo_sheets:
+        raise ValueError(f'Duplicate photo sheet: {key}')
+    if not (DIST / sheet['src']).is_file():
+        raise FileNotFoundError(sheet['src'])
+    if len(sheet['products']) != sheet['columns'] * sheet['rows']:
+        raise ValueError(f'Photo sheet {key} must have one product per tile')
+    photo_sheets[key] = {
+        field: sheet[field] for field in ('src', 'width', 'height', 'columns', 'rows')
+    }
+    for index, product_id in enumerate(sheet['products']):
+        if product_id in photographed:
+            raise ValueError(f'Multiple photos assigned to {product_id}')
+        products[product_id]['photo'] = {'sheet': key, 'index': index}
+        photographed.add(product_id)
+
+missing = products.keys() - photographed
+if missing:
+    raise ValueError(f'Missing product photos: {", ".join(sorted(missing))}')
+data['photoSheets'] = photo_sheets
+
 template=(DIST/'template.html').read_text()
 html=template.replace('__CATALOGUE__',json.dumps(data,ensure_ascii=False).replace('<','\\u003c'))
 (DIST/'index.html').write_text(html)
 standalone=html.replace('<link rel="stylesheet" href="styles.css">','<style>\n'+(DIST/'styles.css').read_text()+'\n</style>')
 for script in ('artwork.js','app.js'):
     standalone=standalone.replace(f'<script src="{script}"></script>','<script>\n'+(DIST/script).read_text()+'\n</script>')
-for filename,mime in [('hero.webp','image/webp'),('inkbyte-logo.png','image/png'),('catalogue-photos.webp','image/webp')]:
+for filename,mime in [('hero.webp','image/webp'),('inkbyte-logo.png','image/png')]:
     asset=DIST/'assets'/filename
     if asset.exists():
         standalone=standalone.replace('src="assets/'+filename+'"','src="data:'+mime+';base64,'+base64.b64encode(asset.read_bytes()).decode()+'"')
+for sheet in photo_sheets.values():
+    src = sheet['src']
+    encoded = base64.b64encode((DIST / src).read_bytes()).decode()
+    standalone = standalone.replace(json.dumps(src), json.dumps(f'data:image/webp;base64,{encoded}'), 1)
 (ROOT/'INKBYTE-preview.html').write_text(standalone)
 print(f'Built {len(data["products"])} products; standalone HTML: {(ROOT/"INKBYTE-preview.html").stat().st_size:,} bytes')
