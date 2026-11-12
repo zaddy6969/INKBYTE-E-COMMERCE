@@ -6,13 +6,13 @@ Approved storefront design for `zaddy6969/INKBYTE-E-COMMERCE`. The supplied INKB
 
 ## Included screens
 
-- Home and all-products catalogue.
+- Home, new items and all-products catalogue.
 - Corporate gifts, print and stationery, clothing and bags, wedding invitations, and gift hampers.
 - Product details with live name/colour mockups, quantity, optional clothing size, artwork preview and requirements.
 - Saved products, cart, contact-and-delivery form, request review and saved-request confirmation.
 - Bulk enquiry, contact, about and help pages.
 
-There are 79 product options in 24 categories: 37 from the `Corporate gift` sheet and 42 from `printing`. Every catalogue entry records its source sheet, row and original description. Spelling is cleaned for display. No additional products have been invented. Corporate-hamper and flyer amounts embedded in the descriptions are parsed as market references. Visiting card quantities represent packs of 100, as specified in the sheet.
+The storefront lists 127 product options in 24 categories. The workbook provides 79 options, including 37 from `Corporate gift` and 42 from `printing`. Those entries retain their source sheet, row and original description. The 48 new options are maintained in `catalogue-additions.json` and added during the build. Visiting cards are listed in packs of 100.
 
 ## Preview behaviour
 
@@ -24,9 +24,9 @@ Checkout and enquiry forms save a clearly labelled local request and download it
 
 ## Pricing and proposed content
 
-The workbook's entire `Our price` column is empty. Market ranges are labelled as guide prices throughout. Seven products have no market price and show `Price on request`. The single-sheet calendar has only a starting value. Cart totals are indicative, and identify incomplete ranges. Personalisation, taxes, delivery and actual minimum quantities require confirmation. INR is assumed for the preview and must be confirmed before publication.
+The workbook's entire `Our price` column is empty. Its market ranges appear as guide prices. Workbook entries without a market price and all 48 new options show `Price on request`. The single-sheet calendar has only a starting value. Cart totals are indicative, and identify incomplete ranges. Personalisation, taxes, delivery and actual minimum quantities require confirmation. INR is assumed for the preview and must be confirmed before publication.
 
-Brand copy and colours are proposed for review. The hero is an original AI-generated concept product photograph. Product illustrations are original SVG mockups, not photographs or manufacturing specifications. They are labelled as illustrative. Real product photos, specifications and finished artwork should replace concepts where appropriate.
+The hero and six new product photos are AI-generated concepts. Product personalisation uses the existing illustrative mockups. Product imagery shows design concepts.
 
 ## Reference sites reviewed
 
@@ -40,7 +40,7 @@ The design and code are original; no reference site's assets, templates or testi
 
 `dist/index.html` is a buildless version with separate CSS, JavaScript and assets. Use any static server with `dist` as its document root. There are no npm dependencies.
 
-Run `python build.py` after editing `dist/styles.css`, `dist/artwork.js`, `dist/app.js`, `dist/template.html` or `catalogue.json`. It recreates `dist/index.html` and the self-contained `INKBYTE-preview.html`.
+Run `python build.py` after editing `dist/styles.css`, `dist/artwork.js`, `dist/app.js`, `dist/template.html`, `catalogue.json` or `catalogue-additions.json`. It combines the workbook entries with the new items, then recreates `dist/index.html` and the self-contained `INKBYTE-preview.html`.
 
 The original workbook is not published in the repository. The generated catalogue records the source sheet and row for audit. To regenerate from your own copy, run `python catalogue.py /absolute/path/to/workbook.xlsx`, then run `python build.py`.
 

@@ -53,3 +53,36 @@
 .site-footer .footer-column a,.site-footer .footer-brand p{color:#e1e9f1}
 .site-footer .footer-bottom{border-color:#6687a3;color:#d4e0eb}.site-footer .preview-chip{color:#e0e8f1}
 @media(max-width:640px){.header-main .brand-logo{width:135px;height:36px}.header-main .brand-logo img{width:166px;left:-9px;top:-6px}.drawer-head .brand-logo{width:146px;height:39px}.drawer-head .brand-logo img{width:178px;left:-9.6px;top:-6.5px}}
+
+.detail-artwork {
+  width: 100%;
+  height: 100%;
+}
+
+.product-photo {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #f8eee2;
+  container-type: size;
+}
+
+.product-photo-frame {
+  position: relative;
+  display: block;
+  width: 100%;
+  width: min(100cqw, 100cqh);
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.product-photo-frame img {
+  position: absolute;
+  top: calc(var(--photo-row) * -100%);
+  left: calc(var(--photo-column) * -100%);
+  width: 300%;
+  height: 200%;
+  max-width: none;
+}

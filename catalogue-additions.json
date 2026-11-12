@@ -1,0 +1,634 @@
+[
+  {
+    "id": "bamboo-click-pen",
+    "name": "Bamboo click pen",
+    "category": "pens",
+    "description": "A click-action pen with a natural bamboo finish. Add your logo to make it part of an event kit or welcome pack.",
+    "keywords": [
+      "wooden",
+      "ballpoint",
+      "stationery"
+    ],
+    "colour": "#977251",
+    "photo": 1
+  },
+  {
+    "id": "soft-touch-ballpoint",
+    "name": "Soft-touch ballpoint pen",
+    "category": "pens",
+    "description": "A smooth-finish ballpoint for everyday notes and client gifts. Request a barrel colour and logo placement with your quote.",
+    "keywords": [
+      "writing",
+      "click",
+      "branding"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "a5-hardcover-notebook",
+    "name": "A5 hardcover ruled notebook",
+    "category": "notebooks",
+    "description": "A compact hardcover notebook for meeting notes and daily lists. Personalise the cover with a name or logo.",
+    "keywords": [
+      "diary",
+      "journal",
+      "lined",
+      "a5"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "undated-weekly-planner",
+    "name": "Undated weekly planner",
+    "category": "notebooks",
+    "description": "A weekly planner that can be started any time of year. Ask for a custom cover and the page layout you prefer.",
+    "keywords": [
+      "diary",
+      "organiser",
+      "organizer",
+      "stationery"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "travel-tumbler-handle",
+    "name": "Handle travel tumbler",
+    "category": "tumblers",
+    "description": "A travel tumbler with a side handle and lid for commutes or desk use. Request your preferred finish, capacity and branding.",
+    "keywords": [
+      "drinkware",
+      "handled",
+      "insulated",
+      "coffee",
+      "cup"
+    ],
+    "colour": "#2c5d87",
+    "photo": 0,
+    "featured": true
+  },
+  {
+    "id": "cold-cup-straw",
+    "name": "Reusable cold cup with straw",
+    "category": "tumblers",
+    "description": "A lidded cup for iced drinks, with room for your brand or event artwork. Ask about available colours and capacity.",
+    "keywords": [
+      "drinkware",
+      "iced",
+      "tumbler",
+      "straw"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "engraved-metal-keyring",
+    "name": "Engraved metal keyring",
+    "category": "keychains",
+    "description": "A metal keyring for names, initials or a small logo. Share the shape and finish you would like quoted.",
+    "keywords": [
+      "keychain",
+      "engraving",
+      "keys"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "acrylic-logo-keychain",
+    "name": "Acrylic logo keychain",
+    "category": "keychains",
+    "description": "Turn a logo, illustration or event mark into a shaped acrylic keychain. Include your artwork and preferred dimensions in the request.",
+    "keywords": [
+      "keyring",
+      "custom shape",
+      "merchandise"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "foldable-phone-stand",
+    "name": "Foldable desktop phone stand",
+    "category": "phone-stands",
+    "description": "A folding stand for calls and desk viewing. Request the dimensions and branding area that suit your project.",
+    "keywords": [
+      "mobile",
+      "holder",
+      "adjustable",
+      "desk"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "bamboo-phone-stand",
+    "name": "Bamboo phone stand",
+    "category": "phone-stands",
+    "description": "A bamboo stand for a phone on a bedside table or desk. Add a name or request a logo on the front.",
+    "keywords": [
+      "wooden",
+      "mobile",
+      "holder",
+      "desk"
+    ],
+    "colour": "#977251"
+  },
+  {
+    "id": "screen-spray-cloth-kit",
+    "name": "Screen spray and cloth set",
+    "category": "cleaning-kits",
+    "description": "Pair a screen spray with a soft cloth for a practical desk or device care gift. Ask about branding the bottle and packaging.",
+    "keywords": [
+      "laptop",
+      "mobile",
+      "microfiber",
+      "microfibre"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "travel-electronics-cleaning-kit",
+    "name": "Travel electronics cleaning kit",
+    "category": "cleaning-kits",
+    "description": "A compact cleaning set for devices on the move. Tell us which tools and pouch style you would like included.",
+    "keywords": [
+      "portable",
+      "keyboard",
+      "earbuds",
+      "device"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "cotton-drawstring-pouch",
+    "name": "Cotton drawstring pouch",
+    "category": "eco-bags",
+    "description": "A drawstring pouch for small gifts, accessories or product samples. Share the size and design you need.",
+    "keywords": [
+      "bag",
+      "packaging",
+      "sachet",
+      "reusable"
+    ],
+    "colour": "#977251"
+  },
+  {
+    "id": "recycled-cotton-shopper",
+    "name": "Recycled cotton shopper",
+    "category": "eco-bags",
+    "description": "A shopper bag option for printed logos, event graphics and retail packaging. Request your preferred material, handle length and print area.",
+    "keywords": [
+      "bag",
+      "tote",
+      "reusable",
+      "recycled"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "two-tone-ceramic-mug",
+    "name": "Two-tone ceramic mug",
+    "category": "mugs",
+    "description": "A ceramic mug with a contrasting interior or handle. Choose the colour combination and tell us where your artwork should sit.",
+    "keywords": [
+      "coffee",
+      "cup",
+      "drinkware",
+      "colour"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "camp-mug",
+    "name": "Insulated camp mug",
+    "category": "mugs",
+    "description": "A camp-style mug with a handle for a desk gift or outdoor event kit. Confirm the capacity, finish and lid options by quote.",
+    "keywords": [
+      "coffee",
+      "cup",
+      "drinkware",
+      "travel"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "potted-jade-plant",
+    "name": "Potted jade plant",
+    "category": "plants",
+    "description": "A small jade plant gift for a desk or welcome kit. Ask for a pot style and a branded gift tag.",
+    "keywords": [
+      "succulent",
+      "green",
+      "desktop",
+      "planter"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "terracotta-succulent",
+    "name": "Terracotta succulent planter",
+    "category": "plants",
+    "description": "A succulent in a terracotta-style pot for a simple desk gift. Request the pot size, packaging and message card you prefer.",
+    "keywords": [
+      "plant",
+      "clay",
+      "desk",
+      "gift"
+    ],
+    "colour": "#977251"
+  },
+  {
+    "id": "stainless-sports-bottle",
+    "name": "Stainless steel sports bottle",
+    "category": "bottles",
+    "description": "A reusable bottle for team kits and events. Share your preferred lid, capacity and logo placement.",
+    "keywords": [
+      "water",
+      "drinkware",
+      "metal",
+      "gym"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "glass-sleeve-bottle",
+    "name": "Glass bottle with protective sleeve",
+    "category": "bottles",
+    "description": "A glass water bottle option with a sleeve for grip. Request available sleeve colours, capacity and branding by quote.",
+    "keywords": [
+      "borosilicate",
+      "water",
+      "drinkware",
+      "silicone"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "new-starter-welcome-kit",
+    "name": "New starter welcome kit",
+    "category": "corporate-hampers",
+    "description": "Request a boxed welcome kit with a notebook, bottle and pen. Choose the colours, packaging and message for your new team members.",
+    "keywords": [
+      "employee",
+      "joining",
+      "onboarding",
+      "desk",
+      "gift box"
+    ],
+    "colour": "#2c5d87",
+    "photo": 4,
+    "featured": true
+  },
+  {
+    "id": "event-speaker-thank-you-kit",
+    "name": "Event speaker thank-you kit",
+    "category": "corporate-hampers",
+    "description": "A gift kit concept with a mug, notebook and thank-you card. Add event branding and a personal message for each speaker.",
+    "keywords": [
+      "conference",
+      "event",
+      "corporate gifts",
+      "appreciation",
+      "client"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "tea-honey-hamper",
+    "name": "Tea and honey hamper",
+    "category": "festival-hampers",
+    "description": "Pair tea and honey in a gift box with a message card. Ask about assortment, dietary details and packaging when requesting your quote.",
+    "keywords": [
+      "festive",
+      "beverage",
+      "gift box",
+      "food"
+    ],
+    "colour": "#977251"
+  },
+  {
+    "id": "sweet-savoury-festive-box",
+    "name": "Sweet and savoury festive box",
+    "category": "festival-hampers",
+    "description": "Build a festive box around a mix of sweet and savoury snacks. Share the occasion, dietary requirements and preferred assortment.",
+    "keywords": [
+      "diwali",
+      "snacks",
+      "festival",
+      "gift hamper"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "long-sleeve-crew-neck-tee",
+    "name": "Long-sleeve crew-neck T-shirt",
+    "category": "t-shirts",
+    "description": "A crew-neck T-shirt with long sleeves for teamwear and event merchandise. Specify the sizes, fabric preference and artwork you need.",
+    "keywords": [
+      "long sleeve",
+      "apparel",
+      "uniform",
+      "crewneck"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "contrast-trim-polo",
+    "name": "Contrast-trim polo T-shirt",
+    "category": "t-shirts",
+    "description": "A polo with contrast trim for staff or teamwear. Request your collar and cuff colours, sizes and logo placement.",
+    "keywords": [
+      "apparel",
+      "uniform",
+      "collar",
+      "teamwear"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "tent-desk-calendar",
+    "name": "Tent desk calendar",
+    "category": "calendars",
+    "description": "A freestanding calendar for a desk or reception counter. Share the start month, artwork and preferred paper finish.",
+    "keywords": [
+      "table",
+      "desktop",
+      "planner",
+      "standing"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "tear-off-desk-pad-calendar",
+    "name": "Tear-off desk pad calendar",
+    "category": "calendars",
+    "description": "A desk pad format with pages to remove as the months pass. Choose the page size, layout and branding in your quote request.",
+    "keywords": [
+      "monthly",
+      "planner",
+      "notepad",
+      "office"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "zip-top-canvas-tote",
+    "name": "Zip-top canvas tote",
+    "category": "bags",
+    "description": "A canvas tote with a zip closure for daily carry and event kits. Share your preferred handle length, size and print design.",
+    "keywords": [
+      "shopper",
+      "zipper",
+      "bag",
+      "canvas"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "gusseted-jute-shopper",
+    "name": "Gusseted jute shopper",
+    "category": "bags",
+    "description": "A jute shopper with a wider base for gift boxes or retail orders. Choose your dimensions and logo placement by quote.",
+    "keywords": [
+      "tote",
+      "carry",
+      "bag",
+      "gift packaging"
+    ],
+    "colour": "#977251"
+  },
+  {
+    "id": "zip-up-hoodie",
+    "name": "Zip-up hoodie",
+    "category": "hoodies",
+    "description": "A full-zip hoodie for team clothing and merchandise. Request the sizes, colour and logo placement that work for your group.",
+    "keywords": [
+      "jacket",
+      "sweatshirt",
+      "zipper",
+      "teamwear"
+    ],
+    "colour": "#2c5d87",
+    "photo": 2,
+    "featured": true
+  },
+  {
+    "id": "crew-neck-sweatshirt",
+    "name": "Crew-neck sweatshirt",
+    "category": "hoodies",
+    "description": "A crew-neck sweatshirt for a team or event design. Share your size mix and front or back artwork with the request.",
+    "keywords": [
+      "pullover",
+      "sweater",
+      "apparel",
+      "crewneck"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "vellum-wrap-wedding-invitation",
+    "name": "Vellum-wrap wedding invitation",
+    "category": "wedding-cards",
+    "description": "A wedding invitation wrapped in translucent vellum. Share the names, invitation wording and envelope colour you have in mind.",
+    "keywords": [
+      "transparent",
+      "invite",
+      "stationery",
+      "paper"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "foil-wedding-invitation-suite",
+    "name": "Foil wedding invitation suite",
+    "category": "wedding-cards",
+    "description": "A coordinated wedding invitation and envelope with foil accents. Request your preferred foil colour, paper finish and insert cards.",
+    "keywords": [
+      "gold",
+      "invites",
+      "foil stamped",
+      "wedding stationery"
+    ],
+    "colour": "#ffc83d",
+    "photo": 3,
+    "featured": true
+  },
+  {
+    "id": "a5-handout-flyer",
+    "name": "A5 handout flyer",
+    "category": "flyers",
+    "description": "A compact handout for promotions, menus or events. Share your artwork, side count and preferred paper weight.",
+    "keywords": [
+      "leaflet",
+      "printing",
+      "event",
+      "brochure"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "z-fold-leaflet",
+    "name": "Z-fold leaflet",
+    "category": "flyers",
+    "description": "A leaflet with three panels for offers, maps or service information. Request your fold size, paper and finish.",
+    "keywords": [
+      "brochure",
+      "three panel",
+      "tri fold",
+      "marketing"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "saddle-stitched-product-booklet",
+    "name": "Saddle-stitched product booklet",
+    "category": "catalogues",
+    "description": "A staple-bound booklet for product selections or menus. Include page count, size and paper preferences in your request.",
+    "keywords": [
+      "catalog",
+      "catalogue",
+      "brochure",
+      "stapled"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "perfect-bound-lookbook",
+    "name": "Perfect-bound lookbook",
+    "category": "catalogues",
+    "description": "A lookbook with a glued spine for a collection or portfolio. Ask for a quote based on the page count, stock and cover finish.",
+    "keywords": [
+      "catalog",
+      "catalogue",
+      "booklet",
+      "portfolio"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "foil-stamped-visiting-cards",
+    "name": "Foil-stamped visiting cards",
+    "category": "visiting-cards",
+    "description": "Add a foil accent to your logo or name. Request a paper stock and foil colour for your pack of 100 cards.",
+    "keywords": [
+      "business card",
+      "gold",
+      "silver",
+      "metallic"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "rounded-corner-visiting-cards",
+    "name": "Rounded-corner visiting cards",
+    "category": "visiting-cards",
+    "description": "A visiting card with rounded corners for a softer shape. Share the size, paper stock and design for your pack of 100.",
+    "keywords": [
+      "business card",
+      "round",
+      "rounded edge"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "textured-letterheads",
+    "name": "Textured letterheads",
+    "category": "letterheads",
+    "description": "Letterheads on textured paper for client letters or proposals. Request your paper colour, size and artwork.",
+    "keywords": [
+      "stationery",
+      "cotton paper",
+      "office",
+      "business"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "kraft-letterheads",
+    "name": "Kraft letterheads",
+    "category": "letterheads",
+    "description": "Letterheads with a natural kraft paper look. Share the paper weight and print colours you want quoted.",
+    "keywords": [
+      "brown paper",
+      "stationery",
+      "office",
+      "recycled"
+    ],
+    "colour": "#977251"
+  },
+  {
+    "id": "self-inking-logo-stamp",
+    "name": "Self-inking logo stamp",
+    "category": "stamps",
+    "description": "A self-inking stamp format for a logo, address or approval mark. Request the imprint size and ink colour you need.",
+    "keywords": [
+      "rubber stamp",
+      "office",
+      "custom stamp",
+      "ink"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "pocket-stamp",
+    "name": "Pocket stamp",
+    "category": "stamps",
+    "description": "A compact stamp format for carrying between desks or sites. Share the required imprint and preferred size.",
+    "keywords": [
+      "portable",
+      "rubber stamp",
+      "address",
+      "office"
+    ],
+    "colour": "#3d3d38"
+  },
+  {
+    "id": "window-business-envelopes",
+    "name": "Window business envelopes",
+    "category": "envelopes",
+    "description": "Business envelopes with an address window for invoices and letters. Request the document fit, window position and print design.",
+    "keywords": [
+      "mail",
+      "windowed",
+      "stationery",
+      "office"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "lined-invitation-envelopes",
+    "name": "Lined invitation envelopes",
+    "category": "envelopes",
+    "description": "Envelopes with a decorative lining for invitations and gift notes. Ask for a size and lining that suit your card.",
+    "keywords": [
+      "wedding",
+      "envelope liner",
+      "stationery",
+      "invite"
+    ],
+    "colour": "#ffc83d"
+  },
+  {
+    "id": "matte-kiss-cut-sticker-sheets",
+    "name": "Matte kiss-cut sticker sheets",
+    "category": "stickers",
+    "description": "Multiple peel-off designs on a single sheet for events, packaging or stationery. Request the sheet size and individual shapes.",
+    "keywords": [
+      "labels",
+      "decals",
+      "kiss cut",
+      "sheet"
+    ],
+    "colour": "#2c5d87",
+    "photo": 5
+  },
+  {
+    "id": "vinyl-product-labels",
+    "name": "Vinyl product labels",
+    "category": "stickers",
+    "description": "Vinyl labels for jars, boxes or bottles. Include the surface, label dimensions and finish you need in your quote request.",
+    "keywords": [
+      "stickers",
+      "packaging",
+      "labels",
+      "vinyl"
+    ],
+    "colour": "#ffc83d"
+  }
+]
