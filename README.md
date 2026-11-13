@@ -12,7 +12,7 @@ Approved storefront design for `zaddy6969/INKBYTE-E-COMMERCE`. The supplied INKB
 - Saved products, cart, contact-and-delivery form, request review and saved-request confirmation.
 - Bulk enquiry, contact, about and help pages.
 
-The storefront lists 127 product options in 24 categories. The workbook provides 79 options, including 37 from `Corporate gift` and 42 from `printing`. Those entries retain their source sheet, row and original description. The 48 new options are maintained in `catalogue-additions.json` and added during the build. Visiting cards are listed in packs of 100.
+The storefront lists 157 product options in 24 categories. The workbook provides 79 options, including 37 from `Corporate gift` and 42 from `printing`. Those entries retain their source sheet, row and original description. The 78 additional listings are maintained in `catalogue-additions.json` and added during the build. They include 30 designs from the supplied pen image archive. Visiting cards are listed in packs of 100.
 
 ## Preview behaviour
 
@@ -24,9 +24,9 @@ Checkout and enquiry forms save a clearly labelled local request and download it
 
 ## Pricing and proposed content
 
-The workbook's entire `Our price` column is empty. Its market ranges appear as guide prices. Workbook entries without a market price and all 48 new options show `Price on request`. The single-sheet calendar has only a starting value. Cart totals are indicative, and identify incomplete ranges. Personalisation, taxes, delivery and actual minimum quantities require confirmation. INR is assumed for the preview and must be confirmed before publication.
+The workbook's entire `Our price` column is empty. Its market ranges appear as guide prices. Workbook entries without a market price and the 78 additional listings show `Price on request`. The single-sheet calendar has only a starting value. Cart totals are indicative, and identify incomplete ranges. Personalisation, taxes, delivery and actual minimum quantities require confirmation. INR is assumed for the preview and must be confirmed before publication.
 
-All 127 listings use distinct AI-generated studio product concepts. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions and generation prompts. The WebP image sheets are in `dist/assets/products/` and `dist/assets/catalogue-photos.webp`.
+Every listing has a distinct studio product concept image. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions, and source filenames for the supplied pen photos. The pen photos are served as individual WebP files from `dist/assets/products/pens/`.
 
 ## Reference sites reviewed
 

@@ -291,6 +291,366 @@
         "vinyl-product-labels"
       ],
       "prompt": "Use case: product-mockup. Asset type: INKBYTE website product photography atlas.\nCreate a SQUARE professional e-commerce photography sheet with exactly 2 equal columns and 2 equal rows, 4 separate tiles. Every tile is an independent photoreal studio packshot on warm ivory seamless tabletop, soft directional lighting, restrained #2c5d87 navy blue and #ffc83d golden yellow accents where appropriate. Square grid with strictly regular full-width boundaries at exact equal intervals. The final page crops every tile independently. Keep each tile's complete product centered and within its own inner 80%, with margin on all four sides; no objects cross tile boundaries. Accurate materials and distinctive silhouettes. No panel numbers, labels, watermarks or invented logos. No inset photos or extra panels. Do not swap products between tiles.\nRow 1, left: a classic manual rubber stamp with wooden handle beside a small separate black ink pad, generic stamp mark on paper.\nRow 1, right: a rectangular blue self-inking logo stamp with visible plastic mechanism and a small printed generic logo impression beside it.\nRow 2, left: a compact black folding pocket stamp opened to show its rubber stamp surface, small travel-size proportions.\nRow 2, right: a partly unrolled roll of durable-looking glossy white vinyl product labels with navy and yellow artwork beside an unbranded jar."
+    },
+    {
+      "id": "cobalt-and-chrome-pen",
+      "src": "assets/products/pens/cobalt-and-chrome-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "cobalt-and-chrome-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_35 PM-1.png"
+    },
+    {
+      "id": "ruby-red-and-gold-pen",
+      "src": "assets/products/pens/ruby-red-and-gold-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "ruby-red-and-gold-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_37 PM-2.png"
+    },
+    {
+      "id": "crimson-black-clip-click-pen",
+      "src": "assets/products/pens/crimson-black-clip-click-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "crimson-black-clip-click-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_38 PM-3.png"
+    },
+    {
+      "id": "royal-blue-black-clip-click-pen",
+      "src": "assets/products/pens/royal-blue-black-clip-click-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "royal-blue-black-clip-click-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_40 PM-4.png"
+    },
+    {
+      "id": "matte-black-click-pen",
+      "src": "assets/products/pens/matte-black-click-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-click-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_41 PM-5.png"
+    },
+    {
+      "id": "gloss-black-and-silver-dome-pen",
+      "src": "assets/products/pens/gloss-black-and-silver-dome-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-and-silver-dome-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_44 PM-6.png"
+    },
+    {
+      "id": "gold-barrel-black-cap-pen",
+      "src": "assets/products/pens/gold-barrel-black-cap-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gold-barrel-black-cap-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_45 PM-1.png"
+    },
+    {
+      "id": "satin-gold-and-black-pen",
+      "src": "assets/products/pens/satin-gold-and-black-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "satin-gold-and-black-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_46 PM-2.png"
+    },
+    {
+      "id": "gold-dome-pen",
+      "src": "assets/products/pens/gold-dome-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gold-dome-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_47 PM-7.png"
+    },
+    {
+      "id": "matte-black-gold-bar-clip-pen",
+      "src": "assets/products/pens/matte-black-gold-bar-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-gold-bar-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_48 PM-3.png"
+    },
+    {
+      "id": "rounded-matte-black-pen",
+      "src": "assets/products/pens/rounded-matte-black-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "rounded-matte-black-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_49 PM-4.png"
+    },
+    {
+      "id": "silver-sparkle-and-gold-pen",
+      "src": "assets/products/pens/silver-sparkle-and-gold-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-sparkle-and-gold-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_49 PM-8.png"
+    },
+    {
+      "id": "matte-black-open-clip-pen",
+      "src": "assets/products/pens/matte-black-open-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-open-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_50 PM-5.png"
+    },
+    {
+      "id": "matte-black-short-clip-pen",
+      "src": "assets/products/pens/matte-black-short-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-short-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_51 PM-6.png"
+    },
+    {
+      "id": "matte-black-sculpted-clip-pen",
+      "src": "assets/products/pens/matte-black-sculpted-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-sculpted-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_53 PM-7.png"
+    },
+    {
+      "id": "textured-gold-arrow-clip-pen",
+      "src": "assets/products/pens/textured-gold-arrow-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "textured-gold-arrow-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_53 PM-9.png"
+    },
+    {
+      "id": "slate-grey-and-silver-click-pen",
+      "src": "assets/products/pens/slate-grey-and-silver-click-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-grey-and-silver-click-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_54 PM-8.png"
+    },
+    {
+      "id": "gloss-black-and-gold-flat-clip-pen",
+      "src": "assets/products/pens/gloss-black-and-gold-flat-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-and-gold-flat-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_55 PM-9.png"
+    },
+    {
+      "id": "espresso-brown-click-pen",
+      "src": "assets/products/pens/espresso-brown-click-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "espresso-brown-click-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_56 PM-10 (1).png"
+    },
+    {
+      "id": "gloss-black-gold-arrow-clip-pen",
+      "src": "assets/products/pens/gloss-black-gold-arrow-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-gold-arrow-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_56 PM-10.png"
+    },
+    {
+      "id": "burgundy-click-pen",
+      "src": "assets/products/pens/burgundy-click-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "burgundy-click-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_57 PM-1.png"
+    },
+    {
+      "id": "brushed-champagne-and-gold-pen",
+      "src": "assets/products/pens/brushed-champagne-and-gold-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-champagne-and-gold-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_58 PM-2.png"
+    },
+    {
+      "id": "brushed-silver-arrow-clip-pen",
+      "src": "assets/products/pens/brushed-silver-arrow-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-arrow-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_12_59 PM-3.png"
+    },
+    {
+      "id": "matte-black-gunmetal-tip-pen",
+      "src": "assets/products/pens/matte-black-gunmetal-tip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-gunmetal-tip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_00 PM-4.png"
+    },
+    {
+      "id": "brushed-silver-smooth-clip-pen",
+      "src": "assets/products/pens/brushed-silver-smooth-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-smooth-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_01 PM-5.png"
+    },
+    {
+      "id": "black-curved-silver-clip-pen",
+      "src": "assets/products/pens/black-curved-silver-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-curved-silver-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_02 PM-6.png"
+    },
+    {
+      "id": "gloss-black-silver-arrow-clip-pen",
+      "src": "assets/products/pens/gloss-black-silver-arrow-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-silver-arrow-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_03 PM-7.png"
+    },
+    {
+      "id": "black-and-gold-chevron-clip-pen",
+      "src": "assets/products/pens/black-and-gold-chevron-clip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-and-gold-chevron-clip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_04 PM-8.png"
+    },
+    {
+      "id": "black-and-gold-dome-pen",
+      "src": "assets/products/pens/black-and-gold-dome-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-and-gold-dome-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_05 PM-9.png"
+    },
+    {
+      "id": "brushed-silver-gold-tip-pen",
+      "src": "assets/products/pens/brushed-silver-gold-tip-pen.webp",
+      "width": 1120,
+      "height": 1008,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-gold-tip-pen"
+      ],
+      "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_07 PM-10.png"
     }
   ]
 }

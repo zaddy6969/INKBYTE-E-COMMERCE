@@ -624,5 +624,394 @@
       "vinyl"
     ],
     "colour": "#ffc83d"
+  },
+  {
+    "id": "cobalt-and-chrome-pen",
+    "name": "Cobalt and chrome pen",
+    "category": "pens",
+    "description": "A bright cobalt barrel is framed by a polished silver-tone cap and tip. Two narrow silver bands add a crisp detail near the lower barrel.",
+    "keywords": [
+      "blue",
+      "silver",
+      "metallic",
+      "double band"
+    ],
+    "colour": "#1254a7"
+  },
+  {
+    "id": "ruby-red-and-gold-pen",
+    "name": "Ruby red and gold pen",
+    "category": "pens",
+    "description": "A glossy ruby-red barrel meets a straight gold-tone clip and matching tapered tip. The slender profile brings a bright accent to a gift set.",
+    "keywords": [
+      "red",
+      "gold trim",
+      "slim"
+    ],
+    "colour": "#ab182c"
+  },
+  {
+    "id": "crimson-black-clip-click-pen",
+    "name": "Crimson black-clip click pen",
+    "category": "pens",
+    "description": "A satin crimson barrel pairs with a wide black clip, black push button and tapered black tip. The angular shoulder gives the two-tone design a sporty look.",
+    "keywords": [
+      "red",
+      "black",
+      "two tone",
+      "retractable"
+    ],
+    "colour": "#b81933"
+  },
+  {
+    "id": "royal-blue-black-clip-click-pen",
+    "name": "Royal blue black-clip click pen",
+    "category": "pens",
+    "description": "A deep royal-blue barrel catches the light along its sides. The long black clip and matching push button keep the finish clean and understated.",
+    "keywords": [
+      "blue",
+      "black",
+      "two tone",
+      "retractable"
+    ],
+    "colour": "#1647a4"
+  },
+  {
+    "id": "matte-black-click-pen",
+    "name": "Matte black click pen",
+    "category": "pens",
+    "description": "A matte black barrel, broad rounded clip and matching push button create an all-black look. The straight body narrows neatly at the tip.",
+    "keywords": [
+      "blackout",
+      "monochrome",
+      "retractable"
+    ],
+    "colour": "#262626"
+  },
+  {
+    "id": "gloss-black-and-silver-dome-pen",
+    "name": "Gloss black and silver dome pen",
+    "category": "pens",
+    "description": "A rounded black crown tops a glossy barrel with a curved silver-tone clip. A bright centre band and tapered silver-tone tip repeat the contrast.",
+    "keywords": [
+      "black",
+      "silver",
+      "glossy",
+      "rounded cap"
+    ],
+    "colour": "#1c1b1b"
+  },
+  {
+    "id": "gold-barrel-black-cap-pen",
+    "name": "Gold barrel black-cap pen",
+    "category": "pens",
+    "description": "A satin gold-tone barrel sits below a glossy black cap. A long gold-tone clip and a short black end cap balance the two finishes.",
+    "keywords": [
+      "gold",
+      "black cap",
+      "two tone",
+      "satin"
+    ],
+    "colour": "#c49b46"
+  },
+  {
+    "id": "satin-gold-and-black-pen",
+    "name": "Satin gold and black pen",
+    "category": "pens",
+    "description": "A satin gold-tone finish runs across the cap and barrel, with polished gold trim and a curved clip. Black end details frame the gold finish.",
+    "keywords": [
+      "gold",
+      "black ends",
+      "satin",
+      "curved clip"
+    ],
+    "colour": "#b28a42"
+  },
+  {
+    "id": "gold-dome-pen",
+    "name": "Gold dome pen",
+    "category": "pens",
+    "description": "A slim satin gold-tone barrel tapers into a polished gold-tone tip. A rounded black crown and a narrow curved clip give the profile its character.",
+    "keywords": [
+      "gold",
+      "slim",
+      "black crown"
+    ],
+    "colour": "#c0994e"
+  },
+  {
+    "id": "matte-black-gold-bar-clip-pen",
+    "name": "Matte black gold-bar clip pen",
+    "category": "pens",
+    "description": "A straight gold-tone clip follows the edge of a rounded matte black cap. A single gold-tone band marks the join above the tapered barrel.",
+    "keywords": [
+      "black",
+      "gold",
+      "straight clip",
+      "matte"
+    ],
+    "colour": "#282726"
+  },
+  {
+    "id": "rounded-matte-black-pen",
+    "name": "Rounded matte black pen",
+    "category": "pens",
+    "description": "A softly rounded cap and a curved black clip flow into a slim tapered barrel. The low-sheen black finish lets the silver-tone lettering stand out.",
+    "keywords": [
+      "black",
+      "minimal",
+      "rounded cap",
+      "curved clip"
+    ],
+    "colour": "#252624"
+  },
+  {
+    "id": "silver-sparkle-and-gold-pen",
+    "name": "Silver sparkle and gold pen",
+    "category": "pens",
+    "description": "A fine silver sparkle texture covers the cap and barrel. A gold-tone arrow-shaped clip, slim bands and black ends frame the textured finish.",
+    "keywords": [
+      "silver",
+      "textured",
+      "glitter",
+      "gold clip"
+    ],
+    "colour": "#b9b8b7"
+  },
+  {
+    "id": "matte-black-open-clip-pen",
+    "name": "Matte black open-clip pen",
+    "category": "pens",
+    "description": "An open-loop black clip arcs away from the barrel. A tapered crown and fine centre seam keep the rest of the matte black design simple.",
+    "keywords": [
+      "black",
+      "matte",
+      "loop clip",
+      "open clip"
+    ],
+    "colour": "#242424"
+  },
+  {
+    "id": "matte-black-short-clip-pen",
+    "name": "Matte black short-clip pen",
+    "category": "pens",
+    "description": "A compact black clip and a glossy stepped crown contrast with the matte barrel. A slim ring at the join defines the upper section.",
+    "keywords": [
+      "black",
+      "matte",
+      "short clip",
+      "stepped crown"
+    ],
+    "colour": "#272625"
+  },
+  {
+    "id": "matte-black-sculpted-clip-pen",
+    "name": "Matte black sculpted-clip pen",
+    "category": "pens",
+    "description": "A sculpted black clip sits close to the cap, with a shallow wave running down its length. The matte barrel finishes in a smooth, narrow taper.",
+    "keywords": [
+      "black",
+      "matte",
+      "wave clip",
+      "sculpted"
+    ],
+    "colour": "#222326"
+  },
+  {
+    "id": "textured-gold-arrow-clip-pen",
+    "name": "Textured gold arrow-clip pen",
+    "category": "pens",
+    "description": "A fine-grained gold-tone finish catches light across the cap and barrel. A polished arrow-shaped clip and glossy black end pieces add definition.",
+    "keywords": [
+      "gold",
+      "grain",
+      "textured",
+      "sparkle",
+      "arrow clip"
+    ],
+    "colour": "#bd9443"
+  },
+  {
+    "id": "slate-grey-and-silver-click-pen",
+    "name": "Slate grey and silver click pen",
+    "category": "pens",
+    "description": "A muted slate-grey barrel pairs with a brushed silver-tone push button and tip. The long, flat clip follows the straight lines of the barrel.",
+    "keywords": [
+      "grey",
+      "gray",
+      "silver",
+      "flat clip",
+      "retractable"
+    ],
+    "colour": "#595d64"
+  },
+  {
+    "id": "gloss-black-and-gold-flat-clip-pen",
+    "name": "Gloss black and gold flat-clip pen",
+    "category": "pens",
+    "description": "A wide gold-tone clip sits against a slender gloss black barrel. The matching gold-tone tip repeats the bright finish at the other end.",
+    "keywords": [
+      "black",
+      "gold",
+      "flat clip",
+      "glossy"
+    ],
+    "colour": "#222121"
+  },
+  {
+    "id": "espresso-brown-click-pen",
+    "name": "Espresso brown click pen",
+    "category": "pens",
+    "description": "A glossy espresso-brown barrel is finished with a smoky metallic-tone push button and a straight matching clip. The deep brown tip continues the tonal look.",
+    "keywords": [
+      "brown",
+      "espresso",
+      "smoke",
+      "retractable"
+    ],
+    "colour": "#43342f"
+  },
+  {
+    "id": "gloss-black-gold-arrow-clip-pen",
+    "name": "Gloss black gold arrow-clip pen",
+    "category": "pens",
+    "description": "A polished gold-tone arrow-shaped clip runs down a glossy black cap. Fine gold-tone rings at the crown, centre and end frame the long black barrel.",
+    "keywords": [
+      "black",
+      "gold",
+      "arrow clip",
+      "glossy"
+    ],
+    "colour": "#1c1b1c"
+  },
+  {
+    "id": "burgundy-click-pen",
+    "name": "Burgundy click pen",
+    "category": "pens",
+    "description": "A glossy burgundy barrel, clip and push button share a deep wine-red finish. The slim body and matching tip give the design a uniform look.",
+    "keywords": [
+      "burgundy",
+      "wine red",
+      "maroon",
+      "retractable"
+    ],
+    "colour": "#66272d"
+  },
+  {
+    "id": "brushed-champagne-and-gold-pen",
+    "name": "Brushed champagne and gold pen",
+    "category": "pens",
+    "description": "A muted champagne-tone barrel has a fine brushed finish. The rounded gold-tone crown, long curved clip and narrow bands add a warm contrast.",
+    "keywords": [
+      "champagne",
+      "brushed",
+      "gold trim",
+      "rounded crown"
+    ],
+    "colour": "#a59a84"
+  },
+  {
+    "id": "brushed-silver-arrow-clip-pen",
+    "name": "Brushed silver arrow-clip pen",
+    "category": "pens",
+    "description": "A brushed silver-tone barrel meets a faceted polished crown. The feather detail on the arrow-shaped clip and a narrow dark centre ring set it apart.",
+    "keywords": [
+      "silver",
+      "brushed",
+      "arrow clip",
+      "feather clip"
+    ],
+    "colour": "#a6a7a5"
+  },
+  {
+    "id": "matte-black-gunmetal-tip-pen",
+    "name": "Matte black gunmetal-tip pen",
+    "category": "pens",
+    "description": "A flat-topped matte black barrel carries a straight inset clip. A smoky gunmetal-tone tip gives the otherwise dark design a small reflective accent.",
+    "keywords": [
+      "black",
+      "gunmetal",
+      "dark trim",
+      "flat top"
+    ],
+    "colour": "#242426"
+  },
+  {
+    "id": "brushed-silver-smooth-clip-pen",
+    "name": "Brushed silver smooth-clip pen",
+    "category": "pens",
+    "description": "Fine brush lines run across the silver-tone cap and barrel. A smooth curved clip, rounded polished crown and thin centre band complete the monochrome finish.",
+    "keywords": [
+      "silver",
+      "brushed",
+      "smooth clip",
+      "curved clip"
+    ],
+    "colour": "#a2a4a4"
+  },
+  {
+    "id": "black-curved-silver-clip-pen",
+    "name": "Black curved silver-clip pen",
+    "category": "pens",
+    "description": "A broad curved silver-tone clip stands out against a softly tapered black body. A rounded crown, wide silver-tone band and short bright tip echo the clip.",
+    "keywords": [
+      "black",
+      "silver",
+      "wide band",
+      "curved clip"
+    ],
+    "colour": "#282828"
+  },
+  {
+    "id": "gloss-black-silver-arrow-clip-pen",
+    "name": "Gloss black silver arrow-clip pen",
+    "category": "pens",
+    "description": "A glossy black body sets off a silver-tone arrow-shaped clip with a feather detail. A faceted crown, polished centre band and bright tip complete the look.",
+    "keywords": [
+      "black",
+      "silver",
+      "arrow clip",
+      "feather clip"
+    ],
+    "colour": "#1c1d1f"
+  },
+  {
+    "id": "black-and-gold-chevron-clip-pen",
+    "name": "Black and gold chevron-clip pen",
+    "category": "pens",
+    "description": "A gold-tone clip with a raised chevron pattern gives the matte black cap a distinctive detail. A faceted crown and gold-tone centre band match the tapered tip.",
+    "keywords": [
+      "black",
+      "gold",
+      "chevron",
+      "textured clip"
+    ],
+    "colour": "#292825"
+  },
+  {
+    "id": "black-and-gold-dome-pen",
+    "name": "Black and gold dome pen",
+    "category": "pens",
+    "description": "A polished gold-tone dome and long sculpted clip sit above a tapered black barrel. A narrow centre band and matching gold-tone tip repeat the warm accent.",
+    "keywords": [
+      "black",
+      "gold",
+      "rounded crown",
+      "dome"
+    ],
+    "colour": "#252321"
+  },
+  {
+    "id": "brushed-silver-gold-tip-pen",
+    "name": "Brushed silver gold-tip pen",
+    "category": "pens",
+    "description": "A brushed silver-tone barrel is paired with a long gold-tone clip and rounded gold-tone crown. A gold-tone centre ring and tapered tip tie the finish together.",
+    "keywords": [
+      "silver",
+      "gold",
+      "brushed",
+      "two tone"
+    ],
+    "colour": "#a5a4a0"
   }
 ]
