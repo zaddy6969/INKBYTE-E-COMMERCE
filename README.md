@@ -16,7 +16,7 @@ The storefront lists 157 product options in 24 categories. The workbook provides
 
 ## Preview behaviour
 
-Search recognises terms such as business cards, diary and tshirt. Filters use starting market reference prices, with sorting by name or price. Saved items, cart customisations and the latest request persist in this browser when local storage is available. They do not sync between devices. The help page has a control to remove all saved preview data.
+Search recognises terms such as business cards, diary and tshirt. Budget filters and price sorting use the selling price when supplied and the starting market guide for other priced items. Saved items, cart customisations and the latest request persist in this browser when local storage is available. They do not sync between devices. The help page has a control to remove all saved preview data.
 
 Artwork selection accepts PNG, JPEG or WebP up to 3 MB. The image is shown locally and is not uploaded. Only its filename enters the cart and downloaded request. Reattach original artwork when arranging a real order.
 
@@ -24,7 +24,9 @@ Checkout and enquiry forms save a clearly labelled local request and download it
 
 ## Pricing and proposed content
 
-The workbook's entire `Our price` column is empty. Its market ranges appear as guide prices. Workbook entries without a market price and the 78 additional listings show `Price on request`. The single-sheet calendar has only a starting value. Cart totals are indicative, and identify incomplete ranges. Personalisation, taxes, delivery and actual minimum quantities require confirmation. INR is assumed for the preview and must be confirmed before publication.
+The workbook's entire `Our price` column is empty. Its market ranges appear as guide prices. Items without a selling price or a market guide show `Price on request`. The single-sheet calendar has only a starting value. Personalisation, taxes, delivery and actual minimum quantities require confirmation.
+
+Set `price` in a catalogue listing to show its selling price in INR per listed unit. The optional `regularPrice` displays a crossed-out amount beside the selling price. Both fields accept positive numbers with up to two decimal places. When supplied, `regularPrice` must exceed `price`. Set `gstExtra` to `true` when GST is extra. The cart and quote preview use the selling amount for the priced-items subtotal and show any market guide ranges alongside it.
 
 Every listing has a distinct studio product concept image. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions, and source filenames for the supplied pen photos. The pen photos are served as individual WebP files from `dist/assets/products/pens/`.
 

@@ -636,7 +636,10 @@
       "metallic",
       "double band"
     ],
-    "colour": "#1254a7"
+    "colour": "#1254a7",
+    "price": 62,
+    "regularPrice": 74.4,
+    "gstExtra": true
   },
   {
     "id": "ruby-red-and-gold-pen",
@@ -648,7 +651,10 @@
       "gold trim",
       "slim"
     ],
-    "colour": "#ab182c"
+    "colour": "#ab182c",
+    "price": 62,
+    "regularPrice": 74.4,
+    "gstExtra": true
   },
   {
     "id": "crimson-black-clip-click-pen",
@@ -661,7 +667,10 @@
       "two tone",
       "retractable"
     ],
-    "colour": "#b81933"
+    "colour": "#b81933",
+    "price": 74,
+    "regularPrice": 88.8,
+    "gstExtra": true
   },
   {
     "id": "royal-blue-black-clip-click-pen",
@@ -674,7 +683,10 @@
       "two tone",
       "retractable"
     ],
-    "colour": "#1647a4"
+    "colour": "#1647a4",
+    "price": 74,
+    "regularPrice": 88.8,
+    "gstExtra": true
   },
   {
     "id": "matte-black-click-pen",
@@ -686,7 +698,10 @@
       "monochrome",
       "retractable"
     ],
-    "colour": "#262626"
+    "colour": "#262626",
+    "price": 74,
+    "regularPrice": 88.8,
+    "gstExtra": true
   },
   {
     "id": "gloss-black-and-silver-dome-pen",
@@ -699,7 +714,10 @@
       "glossy",
       "rounded cap"
     ],
-    "colour": "#1c1b1b"
+    "colour": "#1c1b1b",
+    "price": 87,
+    "regularPrice": 104.4,
+    "gstExtra": true
   },
   {
     "id": "gold-barrel-black-cap-pen",
@@ -712,7 +730,10 @@
       "two tone",
       "satin"
     ],
-    "colour": "#c49b46"
+    "colour": "#c49b46",
+    "price": 92,
+    "regularPrice": 110.4,
+    "gstExtra": true
   },
   {
     "id": "satin-gold-and-black-pen",
@@ -725,7 +746,10 @@
       "satin",
       "curved clip"
     ],
-    "colour": "#b28a42"
+    "colour": "#b28a42",
+    "price": 92,
+    "regularPrice": 110.4,
+    "gstExtra": true
   },
   {
     "id": "gold-dome-pen",
@@ -737,7 +761,10 @@
       "slim",
       "black crown"
     ],
-    "colour": "#c0994e"
+    "colour": "#c0994e",
+    "price": 87,
+    "regularPrice": 104.4,
+    "gstExtra": true
   },
   {
     "id": "matte-black-gold-bar-clip-pen",
@@ -750,7 +777,10 @@
       "straight clip",
       "matte"
     ],
-    "colour": "#282726"
+    "colour": "#282726",
+    "price": 134,
+    "regularPrice": 160.8,
+    "gstExtra": true
   },
   {
     "id": "rounded-matte-black-pen",
@@ -763,7 +793,10 @@
       "rounded cap",
       "curved clip"
     ],
-    "colour": "#252624"
+    "colour": "#252624",
+    "price": 134,
+    "regularPrice": 160.8,
+    "gstExtra": true
   },
   {
     "id": "silver-sparkle-and-gold-pen",
@@ -776,7 +809,10 @@
       "glitter",
       "gold clip"
     ],
-    "colour": "#b9b8b7"
+    "colour": "#b9b8b7",
+    "price": 73,
+    "regularPrice": 87.6,
+    "gstExtra": true
   },
   {
     "id": "matte-black-open-clip-pen",
@@ -789,7 +825,10 @@
       "loop clip",
       "open clip"
     ],
-    "colour": "#242424"
+    "colour": "#242424",
+    "price": 120,
+    "regularPrice": 144.0,
+    "gstExtra": true
   },
   {
     "id": "matte-black-short-clip-pen",
@@ -802,7 +841,10 @@
       "short clip",
       "stepped crown"
     ],
-    "colour": "#272625"
+    "colour": "#272625",
+    "price": 120,
+    "regularPrice": 144.0,
+    "gstExtra": true
   },
   {
     "id": "matte-black-sculpted-clip-pen",
@@ -815,7 +857,10 @@
       "wave clip",
       "sculpted"
     ],
-    "colour": "#222326"
+    "colour": "#222326",
+    "price": 137,
+    "regularPrice": 164.4,
+    "gstExtra": true
   },
   {
     "id": "textured-gold-arrow-clip-pen",
@@ -829,7 +874,10 @@
       "sparkle",
       "arrow clip"
     ],
-    "colour": "#bd9443"
+    "colour": "#bd9443",
+    "price": 73,
+    "regularPrice": 87.6,
+    "gstExtra": true
   },
   {
     "id": "slate-grey-and-silver-click-pen",
@@ -843,7 +891,10 @@
       "flat clip",
       "retractable"
     ],
-    "colour": "#595d64"
+    "colour": "#595d64",
+    "price": 142,
+    "regularPrice": 170.4,
+    "gstExtra": true
   },
   {
     "id": "gloss-black-and-gold-flat-clip-pen",
@@ -856,7 +907,10 @@
       "flat clip",
       "glossy"
     ],
-    "colour": "#222121"
+    "colour": "#222121",
+    "price": 62,
+    "regularPrice": 74.4,
+    "gstExtra": true
   },
   {
     "id": "espresso-brown-click-pen",
@@ -869,7 +923,10 @@
       "smoke",
       "retractable"
     ],
-    "colour": "#43342f"
+    "colour": "#43342f",
+    "price": 153,
+    "regularPrice": 183.6,
+    "gstExtra": true
   },
   {
     "id": "gloss-black-gold-arrow-clip-pen",
@@ -882,7 +939,10 @@
       "arrow clip",
       "glossy"
     ],
-    "colour": "#1c1b1c"
+    "colour": "#1c1b1c",
+    "price": 92,
+    "regularPrice": 110.4,
+    "gstExtra": true
   },
   {
     "id": "burgundy-click-pen",
@@ -895,7 +955,10 @@
       "maroon",
       "retractable"
     ],
-    "colour": "#66272d"
+    "colour": "#66272d",
+    "price": 153,
+    "regularPrice": 183.6,
+    "gstExtra": true
   },
   {
     "id": "brushed-champagne-and-gold-pen",
@@ -908,7 +971,10 @@
       "gold trim",
       "rounded crown"
     ],
-    "colour": "#a59a84"
+    "colour": "#a59a84",
+    "price": 184,
+    "regularPrice": 220.8,
+    "gstExtra": true
   },
   {
     "id": "brushed-silver-arrow-clip-pen",
@@ -921,7 +987,10 @@
       "arrow clip",
       "feather clip"
     ],
-    "colour": "#a6a7a5"
+    "colour": "#a6a7a5",
+    "price": 182,
+    "regularPrice": 218.4,
+    "gstExtra": true
   },
   {
     "id": "matte-black-gunmetal-tip-pen",
@@ -934,7 +1003,10 @@
       "dark trim",
       "flat top"
     ],
-    "colour": "#242426"
+    "colour": "#242426",
+    "price": 167,
+    "regularPrice": 200.4,
+    "gstExtra": true
   },
   {
     "id": "brushed-silver-smooth-clip-pen",
@@ -947,7 +1019,10 @@
       "smooth clip",
       "curved clip"
     ],
-    "colour": "#a2a4a4"
+    "colour": "#a2a4a4",
+    "price": 174,
+    "regularPrice": 208.8,
+    "gstExtra": true
   },
   {
     "id": "black-curved-silver-clip-pen",
@@ -960,7 +1035,10 @@
       "wide band",
       "curved clip"
     ],
-    "colour": "#282828"
+    "colour": "#282828",
+    "price": 165,
+    "regularPrice": 198.0,
+    "gstExtra": true
   },
   {
     "id": "gloss-black-silver-arrow-clip-pen",
@@ -973,7 +1051,10 @@
       "arrow clip",
       "feather clip"
     ],
-    "colour": "#1c1d1f"
+    "colour": "#1c1d1f",
+    "price": 160,
+    "regularPrice": 192.0,
+    "gstExtra": true
   },
   {
     "id": "black-and-gold-chevron-clip-pen",
@@ -986,7 +1067,10 @@
       "chevron",
       "textured clip"
     ],
-    "colour": "#292825"
+    "colour": "#292825",
+    "price": 164,
+    "regularPrice": 196.8,
+    "gstExtra": true
   },
   {
     "id": "black-and-gold-dome-pen",
@@ -999,7 +1083,10 @@
       "rounded crown",
       "dome"
     ],
-    "colour": "#252321"
+    "colour": "#252321",
+    "price": 193,
+    "regularPrice": 231.6,
+    "gstExtra": true
   },
   {
     "id": "brushed-silver-gold-tip-pen",
@@ -1012,6 +1099,9 @@
       "brushed",
       "two tone"
     ],
-    "colour": "#a5a4a0"
+    "colour": "#a5a4a0",
+    "price": 188,
+    "regularPrice": 225.6,
+    "gstExtra": true
   }
 ]

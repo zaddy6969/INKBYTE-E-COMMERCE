@@ -1,5 +1,6 @@
 """Produce a buildless development preview and a fully self-contained HTML."""
 from pathlib import Path
+from decimal import Decimal
 import json, base64
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
@@ -24,6 +25,21 @@ for item in additions:
     })
 
 products = {item['id']: item for item in data['products']}
+for product_id, item in products.items():
+    price = item.get('price')
+    regular_price = item.get('regularPrice')
+    for amount in (price, regular_price):
+        if amount is None:
+            continue
+        if type(amount) not in (int, float) or not (0 < amount < float('inf')) or Decimal(str(amount)).as_tuple().exponent < -2:
+            raise ValueError(f'Invalid price for {product_id}. Use a positive INR amount with up to two decimal places.')
+    if regular_price is not None and (price is None or regular_price <= price):
+        raise ValueError(f'Regular price for {product_id} must be above its selling price.')
+    if 'gstExtra' in item and type(item['gstExtra']) is not bool:
+        raise ValueError(f'gstExtra for {product_id} must be true or false.')
+    if item.get('gstExtra') and price is None:
+        raise ValueError(f'Selling price required to show GST for {product_id}.')
+
 photo_manifest = json.loads((ROOT / 'product-photos.json').read_text(encoding='utf-8'))
 photo_sheets = {}
 photographed = set()
