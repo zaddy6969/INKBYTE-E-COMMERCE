@@ -651,6 +651,84 @@
         "brushed-silver-gold-tip-pen"
       ],
       "source": "pen.zip/ChatGPT Image Nov 13, 2026, 05_13_07 PM-10.png"
+    },
+    {
+      "id": "grey-notebook-bottle-and-pen-gift-set",
+      "src": "assets/products/corporate-gifts/grey-notebook-bottle-and-pen-gift-set.webp",
+      "width": 1120,
+      "height": 1120,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-notebook-bottle-and-pen-gift-set"
+      ],
+      "source": "WhatsApp Image 2026-11-23 at 10.58.29.jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: INKBYTE ecommerce product photograph, one square image for one gift-set listing.\nPrimary request: Professionally restyle the supplied photo of the corporate gift set into a premium, exceptionally realistic studio photograph, while preserving the actual products.\nEdit target: the attached reference image is the source of truth for product identity, colours, quantities, distinctive hardware, and packaging. Remove only the distracting shop surroundings, loose plastic wrapping, glare from the wrapping, acrylic display stands, and incidental objects outside the box. Make the same contents clean, clearly visible and neatly fitted in the same black gift tray. Do not add products, text, logos, ribbons, flowers, hands or promotional badges.\nScene/backdrop: a quiet light cool-grey limestone tabletop and seamless grey studio wall, soft architectural window shadow far behind the product. Restrained luxury catalogue style, premium and calm.\nComposition: single complete open gift box centred, elegant overhead three-quarter view, all four box edges visible, natural geometry, generous 12–15% margin on all sides for square product cards. The products stay in their reference positions and retain their exact colour and shape. No collage, no panels.\nLighting: broad soft daylight from upper left with delicate realistic contact shadows, excellent material detail, clean controlled reflections on the metal items, sharp focus through the entire set. Photorealistic commercial product photography.\n\nSpecific product identity constraints: Preserve exactly the grey textured notebook on the left, its matching strap clasp with a round gold-tone disc, the tall silver brushed-metal bottle with silver cap and black neck ring on the right, and the slim rose-gold-tone and silver pen lying horizontally below the notebook in its black fitted slot. Preserve notebook stitching and bookmark ribbon. Exactly these three products in the black box."
+    },
+    {
+      "id": "blue-notebook-keychain-and-pen-gift-set",
+      "src": "assets/products/corporate-gifts/blue-notebook-keychain-and-pen-gift-set.webp",
+      "width": 1120,
+      "height": 1120,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "blue-notebook-keychain-and-pen-gift-set"
+      ],
+      "source": "WhatsApp Image 2026-11-23 at 10.58.29 (1).jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: INKBYTE ecommerce product photograph, one square image for one gift-set listing.\nPrimary request: Professionally restyle the supplied photo of the corporate gift set into a premium, exceptionally realistic studio photograph, while preserving the actual products.\nEdit target: the attached reference image is the source of truth for product identity, colours, quantities, distinctive hardware, and packaging. Remove only the distracting shop surroundings, loose plastic wrapping, glare from the wrapping, acrylic display stands, and incidental objects outside the box. Make the same contents clean, clearly visible and neatly fitted in the same black gift tray. Do not add products, text, logos, ribbons, flowers, hands or promotional badges.\nScene/backdrop: a quiet light cool-grey limestone tabletop and seamless grey studio wall, soft architectural window shadow far behind the product. Restrained luxury catalogue style, premium and calm.\nComposition: single complete open gift box centred, elegant overhead three-quarter view, all four box edges visible, natural geometry, generous 12–15% margin on all sides for square product cards. The products stay in their reference positions and retain their exact colour and shape. No collage, no panels.\nLighting: broad soft daylight from upper left with delicate realistic contact shadows, excellent material detail, clean controlled reflections on the metal items, sharp focus through the entire set. Photorealistic commercial product photography.\n\nSpecific product identity constraints: Preserve exactly the large plain blue notebook on the left, the blue-tab and silver-tone keychain in the upper right, and the slender blue pen with silver-tone cap and tapered silver tip below it on the right. Exactly these three products in the black box. Keep the notebook cover clean, plain and unbranded."
+    },
+    {
+      "id": "silver-bottle-and-mug-desk-gift-set",
+      "src": "assets/products/corporate-gifts/silver-bottle-and-mug-desk-gift-set.webp",
+      "width": 1120,
+      "height": 1120,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-bottle-and-mug-desk-gift-set"
+      ],
+      "source": "WhatsApp Image 2026-11-23 at 10.58.29 (2).jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: INKBYTE ecommerce product photograph, one square image for one gift-set listing.\nPrimary request: Professionally restyle the supplied photo of the corporate gift set into a premium, exceptionally realistic studio photograph, while preserving the actual products.\nEdit target: the attached reference image is the source of truth for product identity, colours, quantities, distinctive hardware, and packaging. Remove only the distracting shop surroundings, loose plastic wrapping, glare from the wrapping, acrylic display stands, and incidental objects outside the box. Make the same contents clean, clearly visible and neatly fitted in the same black gift tray. Do not add products, text, logos, ribbons, flowers, hands or promotional badges.\nScene/backdrop: a quiet light cool-grey limestone tabletop and seamless grey studio wall, soft architectural window shadow far behind the product. Restrained luxury catalogue style, premium and calm.\nComposition: single complete open gift box centred, elegant overhead three-quarter view, all four box edges visible, natural geometry, generous 12–15% margin on all sides for square product cards. The products stay in their reference positions and retain their exact colour and shape. No collage, no panels.\nLighting: broad soft daylight from upper left with delicate realistic contact shadows, excellent material detail, clean controlled reflections on the metal items, sharp focus through the entire set. Photorealistic commercial product photography.\n\nSpecific product identity constraints: This edit must remove shrink-wrap glare and preserve the source contents rather than substituting another set. Preserve the tall narrow silver brushed-metal bottle at the right edge with its matching silver cap and black neck ring. Preserve the dark cup with its blue/turquoise lid or rim on the left and the slender writing accessory in the fitted section beneath it, keeping their original silhouette and positions. Do not introduce a notebook. Improve visibility with realistic studio illumination on the black components. Complete black rectangular fitted presentation tray."
+    },
+    {
+      "id": "charcoal-elastic-notebook-and-silver-pen-set",
+      "src": "assets/products/corporate-gifts/charcoal-elastic-notebook-and-silver-pen-set.webp",
+      "width": 1120,
+      "height": 1120,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "charcoal-elastic-notebook-and-silver-pen-set"
+      ],
+      "source": "WhatsApp Image 2026-11-23 at 10.58.29 (3).jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: INKBYTE ecommerce product photograph, one square image for one gift-set listing.\nPrimary request: Professionally restyle the supplied photo of the corporate gift set into a premium, exceptionally realistic studio photograph, while preserving the actual products.\nEdit target: the attached reference image is the source of truth for product identity, colours, quantities, distinctive hardware, and packaging. Remove only the distracting shop surroundings, loose plastic wrapping, glare from the wrapping, acrylic display stands, and incidental objects outside the box. Make the same contents clean, clearly visible and neatly fitted in the same black gift tray. Do not add products, text, logos, ribbons, flowers, hands or promotional badges.\nScene/backdrop: a quiet light cool-grey limestone tabletop and seamless grey studio wall, soft architectural window shadow far behind the product. Restrained luxury catalogue style, premium and calm.\nComposition: single complete open gift box centred, elegant overhead three-quarter view, all four box edges visible, natural geometry, generous 12–15% margin on all sides for square product cards. The products stay in their reference positions and retain their exact colour and shape. No collage, no panels.\nLighting: broad soft daylight from upper left with delicate realistic contact shadows, excellent material detail, clean controlled reflections on the metal items, sharp focus through the entire set. Photorealistic commercial product photography.\n\nSpecific product identity constraints: Preserve exactly the plain charcoal-grey notebook occupying the right of the tray, its black vertical elastic band near the right edge and rounded corners, plus the silver-tone pen in the fitted vertical slot on the left. Remove the pen's transparent sleeve and the acrylic stand only. Exactly two products in the black box. Preserve the simple notebook cover and slim silver pen."
+    },
+    {
+      "id": "black-ribbed-notebook-and-pen-gift-set",
+      "src": "assets/products/corporate-gifts/black-ribbed-notebook-and-pen-gift-set.webp",
+      "width": 1120,
+      "height": 1120,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-ribbed-notebook-and-pen-gift-set"
+      ],
+      "source": "WhatsApp Image 2026-11-23 at 10.58.30.jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: INKBYTE ecommerce product photograph, one square image for one gift-set listing.\nPrimary request: Professionally restyle the supplied photo of the corporate gift set into a premium, exceptionally realistic studio photograph, while preserving the actual products.\nEdit target: the attached reference image is the source of truth for product identity, colours, quantities, distinctive hardware, and packaging. Remove only the distracting shop surroundings, loose plastic wrapping, glare from the wrapping, acrylic display stands, and incidental objects outside the box. Make the same contents clean, clearly visible and neatly fitted in the same black gift tray. Do not add products, text, logos, ribbons, flowers, hands or promotional badges.\nScene/backdrop: a quiet light cool-grey limestone tabletop and seamless grey studio wall, soft architectural window shadow far behind the product. Restrained luxury catalogue style, premium and calm.\nComposition: single complete open gift box centred, elegant overhead three-quarter view, all four box edges visible, natural geometry, generous 12–15% margin on all sides for square product cards. The products stay in their reference positions and retain their exact colour and shape. No collage, no panels.\nLighting: broad soft daylight from upper left with delicate realistic contact shadows, excellent material detail, clean controlled reflections on the metal items, sharp focus through the entire set. Photorealistic commercial product photography.\n\nSpecific product identity constraints: Preserve exactly the distinctive black ribbed notebook cover on the left, the smooth black overlapping closure flap on the right of the notebook, and the long polished silver-tone vertical rectangular closure bar on that flap. Keep the black pen with a small silver-tone tapered point in its fitted foam slot on the far right. Exactly two products in the black box. Do not turn the ribbed cover into plain leather. Retain the recognisable broad metal clasp."
+    },
+    {
+      "id": "blue-notebook-card-holder-four-piece-gift-set",
+      "src": "assets/products/corporate-gifts/blue-notebook-card-holder-four-piece-gift-set.webp",
+      "width": 1120,
+      "height": 1120,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "blue-notebook-card-holder-four-piece-gift-set"
+      ],
+      "source": "WhatsApp Image 2026-11-23 at 10.58.30 (1).jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: INKBYTE ecommerce product photograph, one square image for one gift-set listing.\nPrimary request: Professionally restyle the supplied photo of the corporate gift set into a premium, exceptionally realistic studio photograph, while preserving the actual products.\nEdit target: the attached reference image is the source of truth for product identity, colours, quantities, distinctive hardware, and packaging. Remove only the distracting shop surroundings, loose plastic wrapping, glare from the wrapping, acrylic display stands, and incidental objects outside the box. Make the same contents clean, clearly visible and neatly fitted in the same black gift tray. Do not add products, text, logos, ribbons, flowers, hands or promotional badges.\nScene/backdrop: a quiet light cool-grey limestone tabletop and seamless grey studio wall, soft architectural window shadow far behind the product. Restrained luxury catalogue style, premium and calm.\nComposition: single complete open gift box centred, elegant overhead three-quarter view, all four box edges visible, natural geometry, generous 12–15% margin on all sides for square product cards. The products stay in their reference positions and retain their exact colour and shape. No collage, no panels.\nLighting: broad soft daylight from upper left with delicate realistic contact shadows, excellent material detail, clean controlled reflections on the metal items, sharp focus through the entire set. Photorealistic commercial product photography.\n\nSpecific product identity constraints: Preserve exactly this four-piece blue set. A large plain royal-blue notebook occupies the right side, a small matching blue rectangular card holder at the top left, a blue-tab silver-tone keychain lower left, and a blue pen with narrow silver rings and a silver tip vertically between the keychain and notebook. Exactly four products, with black fitted foam and the same black square gift box. Remove shrink wrapping and pen sleeve. Keep all four visibly separate and retain the blue tones."
     }
   ]
 }

@@ -1103,5 +1103,129 @@
     "price": 188,
     "regularPrice": 225.6,
     "gstExtra": true
+  },
+  {
+    "id": "grey-notebook-bottle-and-pen-gift-set",
+    "name": "Grey notebook, bottle & pen gift set",
+    "description": "A grey notebook with stitched edges and a round gold-tone clasp, paired with a brushed silver-tone bottle and a pen with rose-gold-tone accents. The three pieces sit neatly in a fitted black presentation box for team welcomes and client gifts.",
+    "keywords": [
+      "grey",
+      "gray",
+      "notebook",
+      "diary",
+      "bottle",
+      "pen",
+      "three piece",
+      "welcome kit",
+      "employee",
+      "client",
+      "premium"
+    ],
+    "colour": "#8a8882",
+    "category": "corporate-hampers"
+  },
+  {
+    "id": "blue-notebook-keychain-and-pen-gift-set",
+    "name": "Blue notebook, keychain & pen gift set",
+    "description": "A blue notebook, matching blue pen and blue-tab silver-tone keychain arranged in a fitted black presentation box. A coordinated set for client thank-you gifts, office events and new team members.",
+    "keywords": [
+      "blue",
+      "notebook",
+      "diary",
+      "keychain",
+      "keyring",
+      "pen",
+      "three piece",
+      "welcome kit",
+      "employee",
+      "client",
+      "premium"
+    ],
+    "colour": "#365d9b",
+    "category": "corporate-hampers"
+  },
+  {
+    "id": "silver-bottle-and-mug-desk-gift-set",
+    "name": "Silver bottle desk gift set",
+    "description": "A tall silver-tone bottle, a dark cup with a blue rim and a slim pen in a black presentation tray. The combination brings drinkware and a writing essential together for an office welcome or a client gift.",
+    "keywords": [
+      "silver",
+      "bottle",
+      "cup",
+      "mug",
+      "drinkware",
+      "pen",
+      "three piece",
+      "welcome kit",
+      "office",
+      "client",
+      "premium"
+    ],
+    "colour": "#969995",
+    "category": "corporate-hampers"
+  },
+  {
+    "id": "charcoal-elastic-notebook-and-silver-pen-set",
+    "name": "Charcoal notebook & silver pen gift set",
+    "description": "A charcoal notebook with rounded corners and a black elastic closure, paired with a slim silver-tone pen. Both pieces are arranged in a fitted black box for a simple, understated corporate gift.",
+    "keywords": [
+      "charcoal",
+      "grey",
+      "gray",
+      "notebook",
+      "diary",
+      "elastic",
+      "silver",
+      "pen",
+      "two piece",
+      "office",
+      "corporate",
+      "premium"
+    ],
+    "colour": "#606160",
+    "category": "corporate-hampers"
+  },
+  {
+    "id": "black-ribbed-notebook-and-pen-gift-set",
+    "name": "Black ribbed notebook & pen gift set",
+    "description": "A black notebook with a ribbed cover, smooth overlapping flap and a long polished silver-tone closure bar. A matching black pen completes the fitted presentation box, with contrasting textures that give the set its distinctive look.",
+    "keywords": [
+      "black",
+      "ribbed",
+      "textured",
+      "notebook",
+      "diary",
+      "metal clasp",
+      "silver",
+      "pen",
+      "two piece",
+      "office",
+      "executive",
+      "premium"
+    ],
+    "colour": "#262727",
+    "category": "corporate-hampers"
+  },
+  {
+    "id": "blue-notebook-card-holder-four-piece-gift-set",
+    "name": "Blue notebook & accessories gift set",
+    "description": "A four-piece blue collection with a notebook, card holder, blue-tab silver-tone keychain and matching pen. The accessories sit in individual compartments inside a black gift box for a coordinated desk and everyday-carry set.",
+    "keywords": [
+      "blue",
+      "notebook",
+      "diary",
+      "card holder",
+      "wallet",
+      "keychain",
+      "keyring",
+      "pen",
+      "four piece",
+      "welcome kit",
+      "employee",
+      "executive",
+      "premium"
+    ],
+    "colour": "#294e98",
+    "category": "corporate-hampers"
   }
 ]

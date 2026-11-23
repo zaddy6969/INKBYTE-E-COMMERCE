@@ -12,7 +12,7 @@ Approved storefront design for `zaddy6969/INKBYTE-E-COMMERCE`. The supplied INKB
 - Saved products, cart, contact-and-delivery form, request review and saved-request confirmation.
 - Bulk enquiry, contact, about and help pages.
 
-The storefront lists 157 product options in 24 categories. The workbook provides 79 options, including 37 from `Corporate gift` and 42 from `printing`. Those entries retain their source sheet, row and original description. The 78 additional listings are maintained in `catalogue-additions.json` and added during the build. They include 30 designs from the supplied pen image archive. Visiting cards are listed in packs of 100.
+The storefront lists 163 product options in 24 categories. The workbook provides 79 options, including 37 from `Corporate gift` and 42 from `printing`. Those entries retain their source sheet, row and original description. The 84 additional listings are maintained in `catalogue-additions.json` and added during the build. They include 30 designs from the supplied pen image archive and six corporate gift sets from supplied product photographs. Visiting cards are listed in packs of 100.
 
 ## Preview behaviour
 
@@ -28,7 +28,7 @@ The workbook's entire `Our price` column is empty. Its market ranges appear as g
 
 Set `price` in a catalogue listing to show its selling price in INR per listed unit. The optional `regularPrice` displays a crossed-out amount beside the selling price. Both fields accept positive numbers with up to two decimal places. When supplied, `regularPrice` must exceed `price`. Set `gstExtra` to `true` when GST is extra. The cart and quote preview use the selling amount for the priced-items subtotal and show any market guide ranges alongside it.
 
-Every listing has a distinct studio product concept image. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions, and source filenames for the supplied pen photos. The pen photos are served as individual WebP files from `dist/assets/products/pens/`.
+Every listing has a distinct studio product image. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions, and available source filenames. The pen photos are served as individual WebP files from `dist/assets/products/pens/`. The six corporate gift sets use AI-enhanced supplied photographs with a grey stone backdrop, soft studio lighting and the original set contents. Their images are in `dist/assets/products/corporate-gifts/`. Their prices show `Price on request` pending supplied amounts.
 
 ## Reference sites reviewed
 
