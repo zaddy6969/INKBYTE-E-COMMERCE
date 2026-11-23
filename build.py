@@ -64,6 +64,43 @@ for sheet in photo_manifest['sheets']:
 missing = products.keys() - photographed
 if missing:
     raise ValueError(f'Missing product photos: {", ".join(sorted(missing))}')
+# Keep the primary image stable for catalogue cards, saved items and the cart.
+# Additional views are independent references, allowing both image sheets and
+# individual product photographs to use the same gallery renderer.
+for item in products.values():
+    item['gallery'] = [{**item['photo'], 'label': 'Overview'}]
+
+gallery_path = ROOT / 'product-gallery.json'
+gallery_manifest = json.loads(gallery_path.read_text(encoding='utf-8')) if gallery_path.exists() else {'sheets': []}
+for sheet in gallery_manifest['sheets']:
+    key = sheet['id']
+    if key in photo_sheets:
+        raise ValueError(f'Duplicate photo sheet: {key}')
+    image_path = (DIST / sheet['src']).resolve()
+    if not image_path.is_relative_to(DIST.resolve()) or not image_path.is_file():
+        raise FileNotFoundError(sheet['src'])
+    if image_path.suffix.lower() != '.webp':
+        raise ValueError(f'Gallery image {key} must use WebP')
+    for field in ('width', 'height', 'columns', 'rows'):
+        if type(sheet[field]) is not int or sheet[field] <= 0:
+            raise ValueError(f'Invalid {field} for gallery sheet {key}')
+    if len(sheet['products']) != sheet['columns'] * sheet['rows']:
+        raise ValueError(f'Gallery sheet {key} must have one product per tile')
+    label = sheet.get('label', '').strip()
+    if not label or len(label) > 80:
+        raise ValueError(f'Gallery sheet {key} needs a short view label')
+    photo_sheets[key] = {
+        field: sheet[field] for field in ('src', 'width', 'height', 'columns', 'rows')
+    }
+    for index, product_id in enumerate(sheet['products']):
+        if product_id not in products:
+            raise ValueError(f'Unknown gallery product: {product_id}')
+        gallery = products[product_id]['gallery']
+        if any(view['label'].casefold() == label.casefold() for view in gallery):
+            raise ValueError(f'Duplicate gallery view for {product_id}: {label}')
+        if len(gallery) >= 4:
+            raise ValueError(f'Too many gallery images for {product_id}; use up to four')
+        gallery.append({'sheet': key, 'index': index, 'label': label})
 data['photoSheets'] = photo_sheets
 
 template=(DIST/'template.html').read_text()

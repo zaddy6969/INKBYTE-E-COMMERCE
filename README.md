@@ -8,7 +8,7 @@ Approved storefront design for `zaddy6969/INKBYTE-E-COMMERCE`. The supplied INKB
 
 - Home, new items and all-products catalogue.
 - Corporate gifts, print and stationery, clothing and bags, wedding invitations, and gift hampers.
-- Product details with live name/colour mockups, quantity, optional clothing size, artwork preview and requirements.
+- Product details with thumbnail galleries, previous/next controls, keyboard navigation and mobile swipe, plus live name/colour mockups, quantity, optional clothing size, artwork preview and requirements.
 - Saved products, cart, contact-and-delivery form, request review and saved-request confirmation.
 - Bulk enquiry, contact, about and help pages.
 
@@ -28,7 +28,7 @@ The workbook's entire `Our price` column is empty. Its market ranges appear as g
 
 Set `price` in a catalogue listing to show its selling price in INR per listed unit. The optional `regularPrice` displays a crossed-out amount beside the selling price. Both fields accept positive numbers with up to two decimal places. When supplied, `regularPrice` must exceed `price`. Set `gstExtra` to `true` when GST is extra. The cart and quote preview use the selling amount for the priced-items subtotal and show any market guide ranges alongside it.
 
-Every listing has a distinct studio product image. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions, and available source filenames. The pen photos are served as individual WebP files from `dist/assets/products/pens/`. The six corporate gift sets use AI-enhanced supplied photographs with a grey stone backdrop, soft studio lighting and the original set contents. Their images are in `dist/assets/products/corporate-gifts/`. Their prices show `Price on request` pending supplied amounts.
+Every listing has a distinct primary studio product image. Additional AI-generated views are mapped in `product-gallery.json`; each sheet records its product order, dimensions and view label. The product gallery supports up to four images, with an accessible thumbnail selector, previous/next controls, left/right and Home/End keyboard shortcuts, and horizontal touch swipes. Galleries do not auto-advance. Single-image products remain supported without empty controls. Catalogue and cart thumbnails retain the primary image. The product photo stays visible while the name and colour preview appears in a separate personalisation sketch. `product-photos.json` records the product-to-photo assignments, image dimensions, and available source filenames. The pen photos are served as individual WebP files from `dist/assets/products/pens/`. The six corporate gift sets use AI-enhanced supplied photographs with a grey stone backdrop, soft studio lighting and the original set contents. Their images are in `dist/assets/products/corporate-gifts/`. Their prices show `Price on request` pending supplied amounts.
 
 ## Reference sites reviewed
 
@@ -42,7 +42,7 @@ The design and code are original; no reference site's assets, templates or testi
 
 `dist/index.html` is a buildless version with separate CSS, JavaScript and assets. Use any static server with `dist` as its document root. There are no npm dependencies.
 
-Run `python build.py` after editing the catalogue, product photo manifest, page template, styles or scripts. It checks that each product has exactly one photo, then recreates `dist/index.html` and the self-contained `INKBYTE-preview.html`.
+Run `python build.py` after editing the catalogue, product photo manifest, page template, styles or scripts. It checks that each product has exactly one primary photo, validates additional gallery references, labels and local image files, then recreates `dist/index.html` and the self-contained `INKBYTE-preview.html`.
 
 The original workbook is not published in the repository. The generated catalogue records the source sheet and row for audit. To regenerate from your own copy, run `python catalogue.py /absolute/path/to/workbook.xlsx`, then run `python build.py`.
 

@@ -178,3 +178,33 @@
     font-size: 26px;
   }
 }
+
+
+/* Product galleries keep the primary catalogue photo and form state separate. */
+.detail-grid > div { min-width: 0; }
+.product-gallery { min-width: 0; }
+.product-gallery .detail-art { aspect-ratio: 1; touch-action: pan-y pinch-zoom; }
+.product-gallery .detail-art:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; }
+.product-gallery .product-photo { background: #f3f4f5; }
+.product-gallery .detail-artwork img { user-select: none; -webkit-user-drag: none; }
+.gallery-arrow { position: absolute; top: 50%; transform: translateY(-50%); width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid #dce2e8; border-radius: 50%; background: #fffffff2; color: var(--blue); box-shadow: 0 2px 12px #203b5914; }
+.gallery-arrow:hover { background: var(--yellow); border-color: var(--yellow); }
+.gallery-previous { left: 12px; }
+.gallery-next { right: 12px; }
+.gallery-previous .icon { transform: rotate(180deg); }
+.gallery-summary { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin: 14px 0 12px; font-size: 14px; }
+.gallery-label { font-weight: 600; }
+.gallery-count { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.gallery-thumbnails { display: flex; gap: 12px; padding: 3px; margin: -3px; overflow-x: auto; }
+.gallery-thumbnail { flex: 0 0 min(24%, 100px); min-width: 64px; padding: 3px; border: 2px solid transparent; border-radius: 6px; background: white; text-align: center; color: var(--muted); }
+.gallery-thumbnail.active { border-color: var(--blue); background: #fffaf0; color: var(--ink); }
+.gallery-thumbnail:hover { border-color: var(--yellow); }
+.gallery-thumbnail-image { display: block; height: auto; aspect-ratio: 1; overflow: hidden; border-radius: 3px; }
+.gallery-thumbnail > span:last-child { display: block; padding: 5px 1px 2px; font-size: 12px; line-height: 1.35; }
+.product-gallery .detail-caption { font-size: 12px; line-height: 1.55; margin: 16px 0 26px; }
+@media (max-width: 600px) {
+ .gallery-thumbnails { gap: 8px; }
+ .gallery-arrow { width: 40px; height: 40px; }
+ .gallery-previous { left: 8px; }
+ .gallery-next { right: 8px; }
+}

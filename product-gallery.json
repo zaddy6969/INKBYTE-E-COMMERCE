@@ -1,0 +1,1554 @@
+{
+  "sheets": [
+    {
+      "id": "gallery-gifting-showcase-angle",
+      "src": "assets/products/gallery/gifting-showcase-angle.webp",
+      "width": 1536,
+      "height": 1024,
+      "columns": 3,
+      "rows": 2,
+      "products": [
+        "travel-tumbler-handle",
+        "bamboo-click-pen",
+        "zip-up-hoodie",
+        "foil-wedding-invitation-suite",
+        "new-starter-welcome-kit",
+        "matte-kiss-cut-sticker-sheets"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gifting-showcase-detail",
+      "src": "assets/products/gallery/gifting-showcase-detail.webp",
+      "width": 1536,
+      "height": 1024,
+      "columns": 3,
+      "rows": 2,
+      "products": [
+        "travel-tumbler-handle",
+        "bamboo-click-pen",
+        "zip-up-hoodie",
+        "foil-wedding-invitation-suite",
+        "new-starter-welcome-kit",
+        "matte-kiss-cut-sticker-sheets"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-desk-gifts-angle",
+      "src": "assets/products/gallery/desk-gifts-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g02",
+        "soft-touch-ballpoint",
+        "g03",
+        "a5-hardcover-notebook",
+        "undated-weekly-planner",
+        "g05",
+        "engraved-metal-keyring",
+        "acrylic-logo-keychain",
+        "cotton-drawstring-pouch"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-desk-gifts-detail",
+      "src": "assets/products/gallery/desk-gifts-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g02",
+        "soft-touch-ballpoint",
+        "g03",
+        "a5-hardcover-notebook",
+        "undated-weekly-planner",
+        "g05",
+        "engraved-metal-keyring",
+        "acrylic-logo-keychain",
+        "cotton-drawstring-pouch"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-workstation-angle",
+      "src": "assets/products/gallery/workstation-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g06",
+        "foldable-phone-stand",
+        "bamboo-phone-stand",
+        "g07",
+        "screen-spray-cloth-kit",
+        "travel-electronics-cleaning-kit",
+        "g10",
+        "potted-jade-plant",
+        "terracotta-succulent"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-workstation-detail",
+      "src": "assets/products/gallery/workstation-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g06",
+        "foldable-phone-stand",
+        "bamboo-phone-stand",
+        "g07",
+        "screen-spray-cloth-kit",
+        "travel-electronics-cleaning-kit",
+        "g10",
+        "potted-jade-plant",
+        "terracotta-succulent"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-drinkware-and-shopper-angle",
+      "src": "assets/products/gallery/drinkware-and-shopper-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g04",
+        "cold-cup-straw",
+        "g09",
+        "two-tone-ceramic-mug",
+        "camp-mug",
+        "g11",
+        "stainless-sports-bottle",
+        "glass-sleeve-bottle",
+        "recycled-cotton-shopper"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-drinkware-and-shopper-detail",
+      "src": "assets/products/gallery/drinkware-and-shopper-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g04",
+        "cold-cup-straw",
+        "g09",
+        "two-tone-ceramic-mug",
+        "camp-mug",
+        "g11",
+        "stainless-sports-bottle",
+        "glass-sleeve-bottle",
+        "recycled-cotton-shopper"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-bags-and-shirts-angle",
+      "src": "assets/products/gallery/bags-and-shirts-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g08",
+        "g44",
+        "g45",
+        "g46",
+        "zip-top-canvas-tote",
+        "gusseted-jute-shopper",
+        "g26",
+        "g27",
+        "g28"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-bags-and-shirts-detail",
+      "src": "assets/products/gallery/bags-and-shirts-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g08",
+        "g44",
+        "g45",
+        "g46",
+        "zip-top-canvas-tote",
+        "gusseted-jute-shopper",
+        "g26",
+        "g27",
+        "g28"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-apparel-and-welcome-angle",
+      "src": "assets/products/gallery/apparel-and-welcome-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g29",
+        "g30",
+        "g31",
+        "long-sleeve-crew-neck-tee",
+        "contrast-trim-polo",
+        "g48",
+        "crew-neck-sweatshirt",
+        "g13",
+        "g14"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-apparel-and-welcome-detail",
+      "src": "assets/products/gallery/apparel-and-welcome-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g29",
+        "g30",
+        "g31",
+        "long-sleeve-crew-neck-tee",
+        "contrast-trim-polo",
+        "g48",
+        "crew-neck-sweatshirt",
+        "g13",
+        "g14"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gifting-hampers-angle",
+      "src": "assets/products/gallery/gifting-hampers-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g15",
+        "g16",
+        "g17",
+        "event-speaker-thank-you-kit",
+        "g19",
+        "g20",
+        "g21",
+        "g22",
+        "g23"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gifting-hampers-detail",
+      "src": "assets/products/gallery/gifting-hampers-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g15",
+        "g16",
+        "g17",
+        "event-speaker-thank-you-kit",
+        "g19",
+        "g20",
+        "g21",
+        "g22",
+        "g23"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-calendars-angle",
+      "src": "assets/products/gallery/calendars-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g34",
+        "g35",
+        "g36",
+        "g37",
+        "g38",
+        "g39",
+        "g40",
+        "tent-desk-calendar",
+        "tear-off-desk-pad-calendar"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-calendars-detail",
+      "src": "assets/products/gallery/calendars-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "g34",
+        "g35",
+        "g36",
+        "g37",
+        "g38",
+        "g39",
+        "g40",
+        "tent-desk-calendar",
+        "tear-off-desk-pad-calendar"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-wedding-stationery-angle",
+      "src": "assets/products/gallery/wedding-stationery-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p03",
+        "p04",
+        "p05",
+        "p06",
+        "p07",
+        "p08",
+        "p09",
+        "p10",
+        "p11"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-wedding-stationery-detail",
+      "src": "assets/products/gallery/wedding-stationery-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p03",
+        "p04",
+        "p05",
+        "p06",
+        "p07",
+        "p08",
+        "p09",
+        "p10",
+        "p11"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-invitations-and-envelopes-angle",
+      "src": "assets/products/gallery/invitations-and-envelopes-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p12",
+        "p13",
+        "p14",
+        "vellum-wrap-wedding-invitation",
+        "p50",
+        "window-business-envelopes",
+        "lined-invitation-envelopes",
+        "tea-honey-hamper",
+        "sweet-savoury-festive-box"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-invitations-and-envelopes-detail",
+      "src": "assets/products/gallery/invitations-and-envelopes-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p12",
+        "p13",
+        "p14",
+        "vellum-wrap-wedding-invitation",
+        "p50",
+        "window-business-envelopes",
+        "lined-invitation-envelopes",
+        "tea-honey-hamper",
+        "sweet-savoury-festive-box"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-flyers-angle",
+      "src": "assets/products/gallery/flyers-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20",
+        "p21",
+        "p22",
+        "p23",
+        "p24"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-flyers-detail",
+      "src": "assets/products/gallery/flyers-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20",
+        "p21",
+        "p22",
+        "p23",
+        "p24"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brochures-and-catalogues-angle",
+      "src": "assets/products/gallery/brochures-and-catalogues-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p25",
+        "p26",
+        "p27",
+        "a5-handout-flyer",
+        "z-fold-leaflet",
+        "p28",
+        "saddle-stitched-product-booklet",
+        "perfect-bound-lookbook",
+        "p52"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brochures-and-catalogues-detail",
+      "src": "assets/products/gallery/brochures-and-catalogues-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p25",
+        "p26",
+        "p27",
+        "a5-handout-flyer",
+        "z-fold-leaflet",
+        "p28",
+        "saddle-stitched-product-booklet",
+        "perfect-bound-lookbook",
+        "p52"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-business-cards-finishes-angle",
+      "src": "assets/products/gallery/business-cards-finishes-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p32",
+        "p33",
+        "p34",
+        "p35",
+        "p36",
+        "p37",
+        "p38",
+        "p39",
+        "p40"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-business-cards-finishes-detail",
+      "src": "assets/products/gallery/business-cards-finishes-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p32",
+        "p33",
+        "p34",
+        "p35",
+        "p36",
+        "p37",
+        "p38",
+        "p39",
+        "p40"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-business-cards-and-letterheads-angle",
+      "src": "assets/products/gallery/business-cards-and-letterheads-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p41",
+        "p42",
+        "p43",
+        "p44",
+        "foil-stamped-visiting-cards",
+        "rounded-corner-visiting-cards",
+        "p46",
+        "textured-letterheads",
+        "kraft-letterheads"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-business-cards-and-letterheads-detail",
+      "src": "assets/products/gallery/business-cards-and-letterheads-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 3,
+      "rows": 3,
+      "products": [
+        "p41",
+        "p42",
+        "p43",
+        "p44",
+        "foil-stamped-visiting-cards",
+        "rounded-corner-visiting-cards",
+        "p46",
+        "textured-letterheads",
+        "kraft-letterheads"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-stamps-and-vinyl-angle",
+      "src": "assets/products/gallery/stamps-and-vinyl-angle.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 2,
+      "rows": 2,
+      "products": [
+        "p48",
+        "self-inking-logo-stamp",
+        "pocket-stamp",
+        "vinyl-product-labels"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-stamps-and-vinyl-detail",
+      "src": "assets/products/gallery/stamps-and-vinyl-detail.webp",
+      "width": 1254,
+      "height": 1254,
+      "columns": 2,
+      "rows": 2,
+      "products": [
+        "p48",
+        "self-inking-logo-stamp",
+        "pocket-stamp",
+        "vinyl-product-labels"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-cobalt-and-chrome-pen-angle",
+      "src": "assets/products/gallery/cobalt-and-chrome-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "cobalt-and-chrome-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-cobalt-and-chrome-pen-detail",
+      "src": "assets/products/gallery/cobalt-and-chrome-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "cobalt-and-chrome-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-ruby-red-and-gold-pen-angle",
+      "src": "assets/products/gallery/ruby-red-and-gold-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "ruby-red-and-gold-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-ruby-red-and-gold-pen-detail",
+      "src": "assets/products/gallery/ruby-red-and-gold-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "ruby-red-and-gold-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-crimson-black-clip-click-pen-angle",
+      "src": "assets/products/gallery/crimson-black-clip-click-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "crimson-black-clip-click-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-crimson-black-clip-click-pen-detail",
+      "src": "assets/products/gallery/crimson-black-clip-click-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "crimson-black-clip-click-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-royal-blue-black-clip-click-pen-angle",
+      "src": "assets/products/gallery/royal-blue-black-clip-click-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "royal-blue-black-clip-click-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-royal-blue-black-clip-click-pen-detail",
+      "src": "assets/products/gallery/royal-blue-black-clip-click-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "royal-blue-black-clip-click-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-click-pen-angle",
+      "src": "assets/products/gallery/matte-black-click-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-click-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-click-pen-detail",
+      "src": "assets/products/gallery/matte-black-click-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-click-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gloss-black-and-silver-dome-pen-angle",
+      "src": "assets/products/gallery/gloss-black-and-silver-dome-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-and-silver-dome-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gloss-black-and-silver-dome-pen-detail",
+      "src": "assets/products/gallery/gloss-black-and-silver-dome-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-and-silver-dome-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gold-barrel-black-cap-pen-angle",
+      "src": "assets/products/gallery/gold-barrel-black-cap-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gold-barrel-black-cap-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gold-barrel-black-cap-pen-detail",
+      "src": "assets/products/gallery/gold-barrel-black-cap-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gold-barrel-black-cap-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-satin-gold-and-black-pen-angle",
+      "src": "assets/products/gallery/satin-gold-and-black-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "satin-gold-and-black-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-satin-gold-and-black-pen-detail",
+      "src": "assets/products/gallery/satin-gold-and-black-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "satin-gold-and-black-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gold-dome-pen-angle",
+      "src": "assets/products/gallery/gold-dome-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gold-dome-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gold-dome-pen-detail",
+      "src": "assets/products/gallery/gold-dome-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gold-dome-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-gold-bar-clip-pen-angle",
+      "src": "assets/products/gallery/matte-black-gold-bar-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-gold-bar-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-gold-bar-clip-pen-detail",
+      "src": "assets/products/gallery/matte-black-gold-bar-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-gold-bar-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-rounded-matte-black-pen-angle",
+      "src": "assets/products/gallery/rounded-matte-black-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "rounded-matte-black-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-rounded-matte-black-pen-detail",
+      "src": "assets/products/gallery/rounded-matte-black-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "rounded-matte-black-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-silver-sparkle-and-gold-pen-angle",
+      "src": "assets/products/gallery/silver-sparkle-and-gold-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-sparkle-and-gold-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-silver-sparkle-and-gold-pen-detail",
+      "src": "assets/products/gallery/silver-sparkle-and-gold-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-sparkle-and-gold-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-open-clip-pen-angle",
+      "src": "assets/products/gallery/matte-black-open-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-open-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-open-clip-pen-detail",
+      "src": "assets/products/gallery/matte-black-open-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-open-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-short-clip-pen-angle",
+      "src": "assets/products/gallery/matte-black-short-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-short-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-short-clip-pen-detail",
+      "src": "assets/products/gallery/matte-black-short-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-short-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-sculpted-clip-pen-angle",
+      "src": "assets/products/gallery/matte-black-sculpted-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-sculpted-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-sculpted-clip-pen-detail",
+      "src": "assets/products/gallery/matte-black-sculpted-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-sculpted-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-textured-gold-arrow-clip-pen-angle",
+      "src": "assets/products/gallery/textured-gold-arrow-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "textured-gold-arrow-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT textured-gold-arrow-clip-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Entire pen lying diagonally on warm cream stone surface, oblique side angle, all parts visible with breathing room. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-textured-gold-arrow-clip-pen-detail",
+      "src": "assets/products/gallery/textured-gold-arrow-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "textured-gold-arrow-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-slate-grey-and-silver-click-pen-angle",
+      "src": "assets/products/gallery/slate-grey-and-silver-click-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-grey-and-silver-click-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-slate-grey-and-silver-click-pen-detail",
+      "src": "assets/products/gallery/slate-grey-and-silver-click-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-grey-and-silver-click-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT slate-grey-and-silver-click-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Closeup upper half of pen highlighting clip and cap and barrel finish, shallow depth of field. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-gloss-black-and-gold-flat-clip-pen-angle",
+      "src": "assets/products/gallery/gloss-black-and-gold-flat-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-and-gold-flat-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gloss-black-and-gold-flat-clip-pen-detail",
+      "src": "assets/products/gallery/gloss-black-and-gold-flat-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-and-gold-flat-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-espresso-brown-click-pen-angle",
+      "src": "assets/products/gallery/espresso-brown-click-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "espresso-brown-click-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT espresso-brown-click-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Entire pen lying diagonally on warm cream stone surface, oblique side angle, all parts visible with breathing room. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-espresso-brown-click-pen-detail",
+      "src": "assets/products/gallery/espresso-brown-click-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "espresso-brown-click-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT espresso-brown-click-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Closeup upper half of pen highlighting clip and cap and barrel finish, shallow depth of field. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-gloss-black-gold-arrow-clip-pen-angle",
+      "src": "assets/products/gallery/gloss-black-gold-arrow-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-gold-arrow-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gloss-black-gold-arrow-clip-pen-detail",
+      "src": "assets/products/gallery/gloss-black-gold-arrow-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-gold-arrow-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-burgundy-click-pen-angle",
+      "src": "assets/products/gallery/burgundy-click-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "burgundy-click-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-burgundy-click-pen-detail",
+      "src": "assets/products/gallery/burgundy-click-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "burgundy-click-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brushed-champagne-and-gold-pen-angle",
+      "src": "assets/products/gallery/brushed-champagne-and-gold-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-champagne-and-gold-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brushed-champagne-and-gold-pen-detail",
+      "src": "assets/products/gallery/brushed-champagne-and-gold-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-champagne-and-gold-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brushed-silver-arrow-clip-pen-angle",
+      "src": "assets/products/gallery/brushed-silver-arrow-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-arrow-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brushed-silver-arrow-clip-pen-detail",
+      "src": "assets/products/gallery/brushed-silver-arrow-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-arrow-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-gunmetal-tip-pen-angle",
+      "src": "assets/products/gallery/matte-black-gunmetal-tip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-gunmetal-tip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-matte-black-gunmetal-tip-pen-detail",
+      "src": "assets/products/gallery/matte-black-gunmetal-tip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "matte-black-gunmetal-tip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brushed-silver-smooth-clip-pen-angle",
+      "src": "assets/products/gallery/brushed-silver-smooth-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-smooth-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brushed-silver-smooth-clip-pen-detail",
+      "src": "assets/products/gallery/brushed-silver-smooth-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-smooth-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-black-curved-silver-clip-pen-angle",
+      "src": "assets/products/gallery/black-curved-silver-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-curved-silver-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT black-curved-silver-clip-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Entire pen lying diagonally on warm cream stone surface, oblique side angle, all parts visible with breathing room. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-black-curved-silver-clip-pen-detail",
+      "src": "assets/products/gallery/black-curved-silver-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-curved-silver-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gloss-black-silver-arrow-clip-pen-angle",
+      "src": "assets/products/gallery/gloss-black-silver-arrow-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-silver-arrow-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-gloss-black-silver-arrow-clip-pen-detail",
+      "src": "assets/products/gallery/gloss-black-silver-arrow-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "gloss-black-silver-arrow-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-black-and-gold-chevron-clip-pen-angle",
+      "src": "assets/products/gallery/black-and-gold-chevron-clip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-and-gold-chevron-clip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT black-and-gold-chevron-clip-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Entire pen lying diagonally on warm cream stone surface, oblique side angle, all parts visible with breathing room. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-black-and-gold-chevron-clip-pen-detail",
+      "src": "assets/products/gallery/black-and-gold-chevron-clip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-and-gold-chevron-clip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-black-and-gold-dome-pen-angle",
+      "src": "assets/products/gallery/black-and-gold-dome-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-and-gold-dome-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT black-and-gold-dome-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Entire pen lying diagonally on warm cream stone surface, oblique side angle, all parts visible with breathing room. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-black-and-gold-dome-pen-detail",
+      "src": "assets/products/gallery/black-and-gold-dome-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-and-gold-dome-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "Use case precise-object-edit. Create one square realistic premium product photograph of this EXACT black-and-gold-dome-pen. Reference is identity target: preserve colour, finish, clip shape, cap shape, all bands and proportions. Closeup upper half of pen highlighting clip and cap and barrel finish, shallow depth of field. Soft studio light, no new text or accessories, no collage."
+    },
+    {
+      "id": "gallery-brushed-silver-gold-tip-pen-angle",
+      "src": "assets/products/gallery/brushed-silver-gold-tip-pen-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-gold-tip-pen"
+      ],
+      "label": "Angled view",
+      "prompt": "AI-generated matching product angle view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-brushed-silver-gold-tip-pen-detail",
+      "src": "assets/products/gallery/brushed-silver-gold-tip-pen-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "brushed-silver-gold-tip-pen"
+      ],
+      "label": "Detail view",
+      "prompt": "AI-generated matching product detail view, using the existing catalogue image as the identity reference."
+    },
+    {
+      "id": "gallery-grey-notebook-bottle-and-pen-gift-set-angle",
+      "src": "assets/products/gallery/grey-notebook-bottle-and-pen-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-notebook-bottle-and-pen-gift-set"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case: precise-object-edit. Reference is the exact product identity source. Create ONE square photorealistic ecommerce photograph of this SAME gift set from a noticeably different elevated oblique camera angle, looking from the front-left at about 40 degrees, tray laid flat on a cool light grey stone studio surface. Preserve all Grey notebook, bottle & pen gift set contents, their exact shapes, colours, metal finishes, fitted slots, quantities and relative layout. Keep the complete box and every item visible with 12% breathing room. Soft studio daylight, clean premium shadows, no added props, no text/logo, no panels. Do not invent new parts or expose concealed product interiors.  Preserve exactly the grey textured notebook on the left, its matching strap clasp with a round gold-tone disc, the tall silver brushed-metal bottle with silver cap and black neck ring on the right, and the slim rose-gold-tone and silver pen lying horizontally below the notebook in its black fitted slot. Preserve notebook stitching and bookmark ribbon. Exactly these three products in the black box."
+    },
+    {
+      "id": "gallery-grey-notebook-bottle-and-pen-gift-set-detail",
+      "src": "assets/products/gallery/grey-notebook-bottle-and-pen-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-notebook-bottle-and-pen-gift-set"
+      ],
+      "label": "Detail view",
+      "prompt": "Create ONE premium photorealistic ecommerce detail photograph of this exact grey-notebook-bottle-and-pen-gift-set gift set. Use reference as strict identity. Close-up composition showing the notebook cover finish and its adjacent accessory, retaining enough of black fitted gift tray and other contents to identify the same set. Preserve exact colours, hardware, quantities, arrangement, materials and shapes. Soft studio daylight on cool light grey stone, realistic texture and metal reflections, no added items, no invented logos or text, no plastic wrapping, square image."
+    },
+    {
+      "id": "gallery-blue-notebook-keychain-and-pen-gift-set-angle",
+      "src": "assets/products/gallery/blue-notebook-keychain-and-pen-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "blue-notebook-keychain-and-pen-gift-set"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case: precise-object-edit. Reference is the exact product identity source. Create ONE square photorealistic ecommerce photograph of this SAME gift set from a noticeably different elevated oblique camera angle, looking from the front-left at about 40 degrees, tray laid flat on a cool light grey stone studio surface. Preserve all Blue notebook, keychain & pen gift set contents, their exact shapes, colours, metal finishes, fitted slots, quantities and relative layout. Keep the complete box and every item visible with 12% breathing room. Soft studio daylight, clean premium shadows, no added props, no text/logo, no panels. Do not invent new parts or expose concealed product interiors.  Preserve exactly the large plain blue notebook on the left, the blue-tab and silver-tone keychain in the upper right, and the slender blue pen with silver-tone cap and tapered silver tip below it on the right. Exactly these three products in the black box. Keep the notebook cover clean, plain and unbranded."
+    },
+    {
+      "id": "gallery-blue-notebook-keychain-and-pen-gift-set-detail",
+      "src": "assets/products/gallery/blue-notebook-keychain-and-pen-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "blue-notebook-keychain-and-pen-gift-set"
+      ],
+      "label": "Detail view",
+      "prompt": "Create ONE premium photorealistic ecommerce detail photograph of this exact blue-notebook-keychain-and-pen-gift-set gift set. Use reference as strict identity. Close-up composition showing the notebook cover finish and its adjacent accessory, retaining enough of black fitted gift tray and other contents to identify the same set. Preserve exact colours, hardware, quantities, arrangement, materials and shapes. Soft studio daylight on cool light grey stone, realistic texture and metal reflections, no added items, no invented logos or text, no plastic wrapping, square image."
+    },
+    {
+      "id": "gallery-silver-bottle-and-mug-desk-gift-set-angle",
+      "src": "assets/products/gallery/silver-bottle-and-mug-desk-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-bottle-and-mug-desk-gift-set"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case: precise-object-edit. Reference is the exact product identity source. Create ONE square photorealistic ecommerce photograph of this SAME gift set from a noticeably different elevated oblique camera angle, looking from the front-left at about 40 degrees, tray laid flat on a cool light grey stone studio surface. Preserve all Silver bottle desk gift set contents, their exact shapes, colours, metal finishes, fitted slots, quantities and relative layout. Keep the complete box and every item visible with 12% breathing room. Soft studio daylight, clean premium shadows, no added props, no text/logo, no panels. Do not invent new parts or expose concealed product interiors.  This edit must remove shrink-wrap glare and preserve the source contents rather than substituting another set. Preserve the tall narrow silver brushed-metal bottle at the right edge with its matching silver cap and black neck ring. Preserve the dark cup with its blue/turquoise lid or rim on the left and the slender writing accessory in the fitted section beneath it, keeping their original silhouette and positions. Do not introduce a notebook. Improve visibility with realistic studio illumination on the black components. Complete black rectangular fitted presentation tray."
+    },
+    {
+      "id": "gallery-silver-bottle-and-mug-desk-gift-set-detail",
+      "src": "assets/products/gallery/silver-bottle-and-mug-desk-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-bottle-and-mug-desk-gift-set"
+      ],
+      "label": "Detail view",
+      "prompt": "Create ONE premium photorealistic ecommerce detail photograph of this exact silver-bottle-and-mug-desk-gift-set gift set. Use reference as strict identity. Close-up composition showing the notebook cover finish and its adjacent accessory, retaining enough of black fitted gift tray and other contents to identify the same set. Preserve exact colours, hardware, quantities, arrangement, materials and shapes. Soft studio daylight on cool light grey stone, realistic texture and metal reflections, no added items, no invented logos or text, no plastic wrapping, square image."
+    },
+    {
+      "id": "gallery-charcoal-elastic-notebook-and-silver-pen-set-angle",
+      "src": "assets/products/gallery/charcoal-elastic-notebook-and-silver-pen-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "charcoal-elastic-notebook-and-silver-pen-set"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case: precise-object-edit. Reference is the exact product identity source. Create ONE square photorealistic ecommerce photograph of this SAME gift set from a noticeably different elevated oblique camera angle, looking from the front-left at about 40 degrees, tray laid flat on a cool light grey stone studio surface. Preserve all Charcoal notebook & silver pen gift set contents, their exact shapes, colours, metal finishes, fitted slots, quantities and relative layout. Keep the complete box and every item visible with 12% breathing room. Soft studio daylight, clean premium shadows, no added props, no text/logo, no panels. Do not invent new parts or expose concealed product interiors.  Preserve exactly the plain charcoal-grey notebook occupying the right of the tray, its black vertical elastic band near the right edge and rounded corners, plus the silver-tone pen in the fitted vertical slot on the left. Remove the pen's transparent sleeve and the acrylic stand only. Exactly two products in the black box. Preserve the simple notebook cover and slim silver pen."
+    },
+    {
+      "id": "gallery-charcoal-elastic-notebook-and-silver-pen-set-detail",
+      "src": "assets/products/gallery/charcoal-elastic-notebook-and-silver-pen-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "charcoal-elastic-notebook-and-silver-pen-set"
+      ],
+      "label": "Detail view",
+      "prompt": "Create ONE premium photorealistic ecommerce detail photograph of this exact charcoal-elastic-notebook-and-silver-pen-set gift set. Use reference as strict identity. Close-up composition showing the notebook cover finish and its adjacent accessory, retaining enough of black fitted gift tray and other contents to identify the same set. Preserve exact colours, hardware, quantities, arrangement, materials and shapes. Soft studio daylight on cool light grey stone, realistic texture and metal reflections, no added items, no invented logos or text, no plastic wrapping, square image."
+    },
+    {
+      "id": "gallery-black-ribbed-notebook-and-pen-gift-set-angle",
+      "src": "assets/products/gallery/black-ribbed-notebook-and-pen-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-ribbed-notebook-and-pen-gift-set"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case: precise-object-edit. Reference is the exact product identity source. Create ONE square photorealistic ecommerce photograph of this SAME gift set from a noticeably different elevated oblique camera angle, looking from the front-left at about 40 degrees, tray laid flat on a cool light grey stone studio surface. Preserve all Black ribbed notebook & pen gift set contents, their exact shapes, colours, metal finishes, fitted slots, quantities and relative layout. Keep the complete box and every item visible with 12% breathing room. Soft studio daylight, clean premium shadows, no added props, no text/logo, no panels. Do not invent new parts or expose concealed product interiors.  Preserve exactly the distinctive black ribbed notebook cover on the left, the smooth black overlapping closure flap on the right of the notebook, and the long polished silver-tone vertical rectangular closure bar on that flap. Keep the black pen with a small silver-tone tapered point in its fitted foam slot on the far right. Exactly two products in the black box. Do not turn the ribbed cover into plain leather. Retain the recognisable broad metal clasp."
+    },
+    {
+      "id": "gallery-black-ribbed-notebook-and-pen-gift-set-detail",
+      "src": "assets/products/gallery/black-ribbed-notebook-and-pen-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-ribbed-notebook-and-pen-gift-set"
+      ],
+      "label": "Detail view",
+      "prompt": "Create ONE premium photorealistic ecommerce detail photograph of this exact black-ribbed-notebook-and-pen-gift-set gift set. Use reference as strict identity. Close-up composition showing the notebook cover finish and its adjacent accessory, retaining enough of black fitted gift tray and other contents to identify the same set. Preserve exact colours, hardware, quantities, arrangement, materials and shapes. Soft studio daylight on cool light grey stone, realistic texture and metal reflections, no added items, no invented logos or text, no plastic wrapping, square image."
+    },
+    {
+      "id": "gallery-blue-notebook-card-holder-four-piece-gift-set-angle",
+      "src": "assets/products/gallery/blue-notebook-card-holder-four-piece-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "blue-notebook-card-holder-four-piece-gift-set"
+      ],
+      "label": "Angled view",
+      "prompt": "Use case: precise-object-edit. Reference is the exact product identity source. Create ONE square photorealistic ecommerce photograph of this SAME gift set from a noticeably different elevated oblique camera angle, looking from the front-left at about 40 degrees, tray laid flat on a cool light grey stone studio surface. Preserve all Blue notebook & accessories gift set contents, their exact shapes, colours, metal finishes, fitted slots, quantities and relative layout. Keep the complete box and every item visible with 12% breathing room. Soft studio daylight, clean premium shadows, no added props, no text/logo, no panels. Do not invent new parts or expose concealed product interiors.  Preserve exactly this four-piece blue set. A large plain royal-blue notebook occupies the right side, a small matching blue rectangular card holder at the top left, a blue-tab silver-tone keychain lower left, and a blue pen with narrow silver rings and a silver tip vertically between the keychain and notebook. Exactly four products, with black fitted foam and the same black square gift box. Remove shrink wrapping and pen sleeve. Keep all four visibly separate and retain the blue tones."
+    },
+    {
+      "id": "gallery-blue-notebook-card-holder-four-piece-gift-set-detail",
+      "src": "assets/products/gallery/blue-notebook-card-holder-four-piece-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "blue-notebook-card-holder-four-piece-gift-set"
+      ],
+      "label": "Detail view",
+      "prompt": "Create ONE premium photorealistic ecommerce detail photograph of this exact blue-notebook-card-holder-four-piece-gift-set gift set. Use reference as strict identity. Close-up composition showing the notebook cover finish and its adjacent accessory, retaining enough of black fitted gift tray and other contents to identify the same set. Preserve exact colours, hardware, quantities, arrangement, materials and shapes. Soft studio daylight on cool light grey stone, realistic texture and metal reflections, no added items, no invented logos or text, no plastic wrapping, square image."
+    }
+  ]
+}
