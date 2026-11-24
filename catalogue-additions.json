@@ -1227,5 +1227,369 @@
     ],
     "colour": "#294e98",
     "category": "corporate-hampers"
+  },
+  {
+    "id": "royal-blue-elastic-notebook",
+    "name": "Royal blue elastic notebook",
+    "category": "notebooks",
+    "description": "A vivid blue cover with a matching vertical elastic closure and rounded corners. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#2c5d87"
+  },
+  {
+    "id": "graphite-elastic-notebook",
+    "name": "Graphite elastic notebook",
+    "category": "notebooks",
+    "description": "A smooth graphite cover with a contrasting black elastic closure. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "silver-woodgrain-elastic-notebook",
+    "name": "Silver woodgrain elastic notebook",
+    "category": "notebooks",
+    "description": "A silver-grey cover with a vertical woodgrain-style pattern and black elastic closure. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "autumn-botanical-2027-diary",
+    "name": "Autumn botanical 2027 diary",
+    "category": "notebooks",
+    "description": "An illustrated 2027 diary with autumn leaves, a lamplit scene and a warm neutral lower panel. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "pink-collage-2027-diary",
+    "name": "Pink collage 2027 diary",
+    "category": "notebooks",
+    "description": "A 2027 diary with a pink collage of flowers, butterflies and vintage-inspired motifs above a dark lower panel. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "vintage-monogram-2027-diary",
+    "name": "Vintage monogram 2027 diary",
+    "category": "notebooks",
+    "description": "A 2027 diary with a large decorative E, vintage-style collage artwork and a dark lower panel. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "ganesha-illustrated-2027-diary",
+    "name": "Ganesha illustrated 2027 diary",
+    "category": "notebooks",
+    "description": "A 2027 diary featuring a colourful Ganesha illustration with a green background and dark blue lower panel. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "venkateswara-illustrated-2027-diary",
+    "name": "Venkateswara illustrated 2027 diary",
+    "category": "notebooks",
+    "description": "A 2027 diary featuring a Venkateswara illustration against a rich brown background. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "charcoal-woven-look-elastic-notebook",
+    "name": "Charcoal woven-look elastic notebook",
+    "category": "notebooks",
+    "description": "A charcoal cover with a woven-look texture and a black elastic closure. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "burgundy-textured-elastic-notebook",
+    "name": "Burgundy textured elastic notebook",
+    "category": "notebooks",
+    "description": "A burgundy cover with a subtle textured finish and a matching elastic closure. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "scarlet-elastic-notebook",
+    "name": "Scarlet elastic notebook",
+    "category": "notebooks",
+    "description": "A bright red cover with a matching elastic closure and side loop. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "midnight-black-elastic-notebook",
+    "name": "Midnight black elastic notebook",
+    "category": "notebooks",
+    "description": "A dark black cover with a textured appearance and matching elastic closure. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "chestnut-rectangular-clasp-organiser",
+    "name": "Chestnut rectangular-clasp organiser",
+    "category": "notebooks",
+    "description": "A chestnut-brown organiser with stitched edges and a rectangular gold-tone clasp on its side tab. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "cognac-round-clasp-organiser",
+    "name": "Cognac round-clasp organiser",
+    "category": "notebooks",
+    "description": "A cognac-brown organiser with stitched edges and a round gold-tone clasp. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "tan-wrap-flap-organiser",
+    "name": "Tan wrap-flap organiser",
+    "category": "notebooks",
+    "description": "A warm tan organiser with a curved overlapping flap and stitched edges. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "black-rectangular-frame-organiser",
+    "name": "Black rectangular-frame organiser",
+    "category": "notebooks",
+    "description": "A black organiser with a side tab and an open rectangular gold-tone frame detail. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "slate-geometric-flap-organiser",
+    "name": "Slate geometric-flap organiser",
+    "category": "notebooks",
+    "description": "A slate-grey organiser with a textured cover, stepped flap and small gold-tone square detail. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "chestnut-ribbed-gold-bar-organiser",
+    "name": "Chestnut ribbed gold-bar organiser",
+    "category": "notebooks",
+    "description": "A chestnut organiser combining vertical ribs, a smooth overlapping flap and a long gold-tone bar. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "grey-round-clasp-organiser",
+    "name": "Grey round-clasp organiser",
+    "category": "notebooks",
+    "description": "A grey organiser with stitched edges and a round metallic clasp on its side tab. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "grey-gold-bar-clasp-organiser",
+    "name": "Grey gold-bar clasp organiser",
+    "category": "notebooks",
+    "description": "A grey organiser with stitched edges and a rectangular gold-tone clasp. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "tan-geometric-circle-elastic-notebook",
+    "name": "Tan geometric-circle elastic notebook",
+    "category": "notebooks",
+    "description": "A tan notebook with a circular geometric cover motif and contrasting dark elastic closure. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "notebooks",
+      "corporate gift",
+      "office",
+      "diary"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "chestnut-ribbed-notebook-pen-gift-set",
+    "name": "Chestnut ribbed notebook & pen gift set",
+    "category": "corporate-hampers",
+    "description": "A chestnut ribbed organiser with a long gold-tone bar, paired with a pen in a fitted black presentation box. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "corporate-hampers",
+      "corporate gift",
+      "office",
+      "gift set"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "slate-flap-notebook-pen-gift-set",
+    "name": "Slate flap notebook & pen gift set",
+    "category": "corporate-hampers",
+    "description": "A slate-grey organiser with a stepped flap and square gold-tone detail, paired with a pen in a black presentation box. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "corporate-hampers",
+      "corporate gift",
+      "office",
+      "gift set"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "tan-wrap-flap-notebook-pen-gift-set",
+    "name": "Tan wrap-flap notebook & pen gift set",
+    "category": "corporate-hampers",
+    "description": "A tan organiser with a curved wrap flap and a pen, arranged in a fitted black presentation box. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "corporate-hampers",
+      "corporate gift",
+      "office",
+      "gift set"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "sand-ribbed-bottle-two-mug-gift-set",
+    "name": "Sand ribbed bottle & two-mug gift set",
+    "category": "corporate-hampers",
+    "description": "A sand-coloured ribbed bottle with two matching handled mugs, presented together in a fitted black gift box. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "corporate-hampers",
+      "corporate gift",
+      "office",
+      "gift set"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "sand-sculpted-lid-ribbed-cup",
+    "name": "Sand sculpted-lid ribbed cup",
+    "category": "tumblers",
+    "description": "A sand-coloured cup with a ribbed lower body and a sculpted sipping lid. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "tumblers",
+      "corporate gift",
+      "office",
+      "drinkware"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "espresso-ribbed-travel-cup",
+    "name": "Espresso ribbed travel cup",
+    "category": "tumblers",
+    "description": "An espresso-brown cup with a ribbed lower body and a matching lid with a sipping opening. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "tumblers",
+      "corporate gift",
+      "office",
+      "drinkware"
+    ],
+    "colour": "#846b56"
+  },
+  {
+    "id": "sand-ribbed-handle-mug",
+    "name": "Sand ribbed handle mug",
+    "category": "mugs",
+    "description": "A sand-coloured mug with vertical ribs and a curved side handle. Ask for available sizes and personalisation options with your quote.",
+    "keywords": [
+      "mugs",
+      "corporate gift",
+      "office",
+      "drinkware"
+    ],
+    "colour": "#846b56"
   }
 ]

@@ -729,6 +729,342 @@
       ],
       "source": "WhatsApp Image 2026-11-23 at 10.58.30 (1).jpeg",
       "prompt": "Use case: precise-object-edit.\nAsset type: INKBYTE ecommerce product photograph, one square image for one gift-set listing.\nPrimary request: Professionally restyle the supplied photo of the corporate gift set into a premium, exceptionally realistic studio photograph, while preserving the actual products.\nEdit target: the attached reference image is the source of truth for product identity, colours, quantities, distinctive hardware, and packaging. Remove only the distracting shop surroundings, loose plastic wrapping, glare from the wrapping, acrylic display stands, and incidental objects outside the box. Make the same contents clean, clearly visible and neatly fitted in the same black gift tray. Do not add products, text, logos, ribbons, flowers, hands or promotional badges.\nScene/backdrop: a quiet light cool-grey limestone tabletop and seamless grey studio wall, soft architectural window shadow far behind the product. Restrained luxury catalogue style, premium and calm.\nComposition: single complete open gift box centred, elegant overhead three-quarter view, all four box edges visible, natural geometry, generous 12–15% margin on all sides for square product cards. The products stay in their reference positions and retain their exact colour and shape. No collage, no panels.\nLighting: broad soft daylight from upper left with delicate realistic contact shadows, excellent material detail, clean controlled reflections on the metal items, sharp focus through the entire set. Photorealistic commercial product photography.\n\nSpecific product identity constraints: Preserve exactly this four-piece blue set. A large plain royal-blue notebook occupies the right side, a small matching blue rectangular card holder at the top left, a blue-tab silver-tone keychain lower left, and a blue pen with narrow silver rings and a silver tip vertically between the keychain and notebook. Exactly four products, with black fitted foam and the same black square gift box. Remove shrink wrapping and pen sleeve. Keep all four visibly separate and retain the blue tones."
+    },
+    {
+      "id": "studio-royal-blue-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/royal-blue-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "royal-blue-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Royal blue elastic notebook. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-graphite-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/graphite-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "graphite-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Graphite elastic notebook. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-silver-woodgrain-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/silver-woodgrain-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-woodgrain-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Silver woodgrain elastic notebook. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-autumn-botanical-2027-diary-overview",
+      "src": "assets/products/studio-collection/autumn-botanical-2027-diary-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "autumn-botanical-2027-diary"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Autumn botanical 2027 diary. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-pink-collage-2027-diary-overview",
+      "src": "assets/products/studio-collection/pink-collage-2027-diary-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "pink-collage-2027-diary"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Pink collage 2027 diary. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-vintage-monogram-2027-diary-overview",
+      "src": "assets/products/studio-collection/vintage-monogram-2027-diary-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "vintage-monogram-2027-diary"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Vintage monogram 2027 diary. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-ganesha-illustrated-2027-diary-overview",
+      "src": "assets/products/studio-collection/ganesha-illustrated-2027-diary-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "ganesha-illustrated-2027-diary"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Ganesha illustrated 2027 diary. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-venkateswara-illustrated-2027-diary-overview",
+      "src": "assets/products/studio-collection/venkateswara-illustrated-2027-diary-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "venkateswara-illustrated-2027-diary"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: the uploaded photograph of Venkateswara illustrated 2027 diary. Make a premium realistic ecommerce product photo for Inkbyte. Preserve EXACT product colour, shape, texture, closure, cover illustration and printed text from reference; especially retain 2027 and religious illustration where present. Change only the shop background, lighting and presentation: warm ivory seamless studio backdrop and pale cream stone surface, soft daylight, grounded subtle shadow. Remove acrylic display stand, cables, plants and other shop objects. Single whole product upright at a very slight three-quarter angle, front cover fully readable, centered with generous margins, square image. No added accessories, branding, invented text, borders or watermark."
+    },
+    {
+      "id": "studio-charcoal-woven-look-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/charcoal-woven-look-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "charcoal-woven-look-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Charcoal woven-look elastic notebook. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-burgundy-textured-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/burgundy-textured-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "burgundy-textured-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Burgundy textured elastic notebook. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-scarlet-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/scarlet-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "scarlet-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Scarlet elastic notebook. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-midnight-black-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/midnight-black-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "midnight-black-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Midnight black elastic notebook. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-chestnut-rectangular-clasp-organiser-overview",
+      "src": "assets/products/studio-collection/chestnut-rectangular-clasp-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-rectangular-clasp-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Chestnut rectangular-clasp organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-cognac-round-clasp-organiser-overview",
+      "src": "assets/products/studio-collection/cognac-round-clasp-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "cognac-round-clasp-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Cognac round-clasp organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-tan-wrap-flap-organiser-overview",
+      "src": "assets/products/studio-collection/tan-wrap-flap-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-wrap-flap-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Tan wrap-flap organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-black-rectangular-frame-organiser-overview",
+      "src": "assets/products/studio-collection/black-rectangular-frame-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-rectangular-frame-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Black rectangular-frame organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-slate-geometric-flap-organiser-overview",
+      "src": "assets/products/studio-collection/slate-geometric-flap-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-geometric-flap-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Slate geometric-flap organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-chestnut-ribbed-gold-bar-organiser-overview",
+      "src": "assets/products/studio-collection/chestnut-ribbed-gold-bar-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-ribbed-gold-bar-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Chestnut ribbed gold-bar organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-grey-round-clasp-organiser-overview",
+      "src": "assets/products/studio-collection/grey-round-clasp-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-round-clasp-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Grey round-clasp organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-grey-gold-bar-clasp-organiser-overview",
+      "src": "assets/products/studio-collection/grey-gold-bar-clasp-organiser-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-gold-bar-clasp-organiser"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Grey gold-bar clasp organiser. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-tan-geometric-circle-elastic-notebook-overview",
+      "src": "assets/products/studio-collection/tan-geometric-circle-elastic-notebook-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-geometric-circle-elastic-notebook"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Tan geometric-circle elastic notebook. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-chestnut-ribbed-notebook-pen-gift-set-overview",
+      "src": "assets/products/studio-collection/chestnut-ribbed-notebook-pen-gift-set-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-ribbed-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Chestnut ribbed notebook & pen gift set. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Show the whole open black presentation box and every included item clearly; preserve exact item count and placement. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-slate-flap-notebook-pen-gift-set-overview",
+      "src": "assets/products/studio-collection/slate-flap-notebook-pen-gift-set-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-flap-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Slate flap notebook & pen gift set. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Show the whole open black presentation box and every included item clearly; preserve exact item count and placement. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-tan-wrap-flap-notebook-pen-gift-set-overview",
+      "src": "assets/products/studio-collection/tan-wrap-flap-notebook-pen-gift-set-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-wrap-flap-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Tan wrap-flap notebook & pen gift set. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Show the whole open black presentation box and every included item clearly; preserve exact item count and placement. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-sand-ribbed-bottle-two-mug-gift-set-overview",
+      "src": "assets/products/studio-collection/sand-ribbed-bottle-two-mug-gift-set-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-ribbed-bottle-two-mug-gift-set"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Sand ribbed bottle & two-mug gift set. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Show the whole open black presentation box and every included item clearly; preserve exact item count and placement. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-sand-sculpted-lid-ribbed-cup-overview",
+      "src": "assets/products/studio-collection/sand-sculpted-lid-ribbed-cup-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-sculpted-lid-ribbed-cup"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Sand sculpted-lid ribbed cup. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-espresso-ribbed-travel-cup-overview",
+      "src": "assets/products/studio-collection/espresso-ribbed-travel-cup-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "espresso-ribbed-travel-cup"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Espresso ribbed travel cup. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
+    },
+    {
+      "id": "studio-sand-ribbed-handle-mug-overview",
+      "src": "assets/products/studio-collection/sand-ribbed-handle-mug-overview.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-ribbed-handle-mug"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: photograph of Sand ribbed handle mug. Create a premium realistic ecommerce studio product photo for Inkbyte. Keep EXACT product identity, colour, shape, proportions, texture, stitching, hardware, pen, lid and all contents unchanged. Change only background, lighting and presentation: warm ivory seamless backdrop and pale cream stone surface, soft professional daylight and subtle grounded shadow. Remove acrylic display stand, cables, plants and shop clutter. Single whole product upright, slight three-quarter angle, front visible. Center with generous margins in square image. Do not add accessories, text, logos or watermark. Do not upgrade the physical product."
     }
   ]
 }

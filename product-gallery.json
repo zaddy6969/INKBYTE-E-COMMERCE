@@ -1549,6 +1549,734 @@
       ],
       "label": "Detail view",
       "prompt": "Create ONE premium photorealistic ecommerce detail photograph of this exact blue-notebook-card-holder-four-piece-gift-set gift set. Use reference as strict identity. Close-up composition showing the notebook cover finish and its adjacent accessory, retaining enough of black fitted gift tray and other contents to identify the same set. Preserve exact colours, hardware, quantities, arrangement, materials and shapes. Soft studio daylight on cool light grey stone, realistic texture and metal reflections, no added items, no invented logos or text, no plastic wrapping, square image."
+    },
+    {
+      "id": "studio-royal-blue-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/royal-blue-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "royal-blue-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Royal blue elastic notebook, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-royal-blue-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/royal-blue-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "royal-blue-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Royal blue elastic notebook, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-graphite-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/graphite-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "graphite-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Graphite elastic notebook, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-graphite-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/graphite-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "graphite-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Graphite elastic notebook, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-silver-woodgrain-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/silver-woodgrain-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-woodgrain-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Silver woodgrain elastic notebook, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-silver-woodgrain-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/silver-woodgrain-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "silver-woodgrain-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Silver woodgrain elastic notebook, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-autumn-botanical-2027-diary-angle",
+      "src": "assets/products/studio-collection/autumn-botanical-2027-diary-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "autumn-botanical-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Autumn botanical 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-autumn-botanical-2027-diary-detail",
+      "src": "assets/products/studio-collection/autumn-botanical-2027-diary-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "autumn-botanical-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Autumn botanical 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-pink-collage-2027-diary-angle",
+      "src": "assets/products/studio-collection/pink-collage-2027-diary-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "pink-collage-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Pink collage 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-pink-collage-2027-diary-detail",
+      "src": "assets/products/studio-collection/pink-collage-2027-diary-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "pink-collage-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Pink collage 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-vintage-monogram-2027-diary-angle",
+      "src": "assets/products/studio-collection/vintage-monogram-2027-diary-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "vintage-monogram-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Vintage monogram 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-vintage-monogram-2027-diary-detail",
+      "src": "assets/products/studio-collection/vintage-monogram-2027-diary-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "vintage-monogram-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Vintage monogram 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-ganesha-illustrated-2027-diary-angle",
+      "src": "assets/products/studio-collection/ganesha-illustrated-2027-diary-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "ganesha-illustrated-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Ganesha illustrated 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-ganesha-illustrated-2027-diary-detail",
+      "src": "assets/products/studio-collection/ganesha-illustrated-2027-diary-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "ganesha-illustrated-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Ganesha illustrated 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-venkateswara-illustrated-2027-diary-angle",
+      "src": "assets/products/studio-collection/venkateswara-illustrated-2027-diary-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "venkateswara-illustrated-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Venkateswara illustrated 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue three-quarter side view of the entire closed notebook, front cover still mostly visible. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-venkateswara-illustrated-2027-diary-detail",
+      "src": "assets/products/studio-collection/venkateswara-illustrated-2027-diary-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "venkateswara-illustrated-2027-diary"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Venkateswara illustrated 2027 diary, use the attached original product photo as the exact identity reference. Create ONE premium realistic studio catalogue close-up detail view of the front cover texture and closure or printed artwork. Keep identical colour, proportions, cover artwork and text, closure and materials. Do not invent features or change artwork. Warm ivory seamless studio background, pale cream stone surface, soft daylight, subtle shadow. Remove all shop clutter and acrylic stand. Square composition, no overlay text, watermark, added logos or props.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-charcoal-woven-look-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/charcoal-woven-look-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "charcoal-woven-look-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Charcoal woven-look elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-charcoal-woven-look-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/charcoal-woven-look-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "charcoal-woven-look-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Charcoal woven-look elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-burgundy-textured-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/burgundy-textured-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "burgundy-textured-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Burgundy textured elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-burgundy-textured-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/burgundy-textured-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "burgundy-textured-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Burgundy textured elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-scarlet-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/scarlet-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "scarlet-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Scarlet elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-scarlet-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/scarlet-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "scarlet-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Scarlet elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-midnight-black-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/midnight-black-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "midnight-black-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Midnight black elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-midnight-black-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/midnight-black-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "midnight-black-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Midnight black elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-chestnut-rectangular-clasp-organiser-angle",
+      "src": "assets/products/studio-collection/chestnut-rectangular-clasp-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-rectangular-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Chestnut rectangular-clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-chestnut-rectangular-clasp-organiser-detail",
+      "src": "assets/products/studio-collection/chestnut-rectangular-clasp-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-rectangular-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Chestnut rectangular-clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-cognac-round-clasp-organiser-angle",
+      "src": "assets/products/studio-collection/cognac-round-clasp-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "cognac-round-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Cognac round-clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-cognac-round-clasp-organiser-detail",
+      "src": "assets/products/studio-collection/cognac-round-clasp-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "cognac-round-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Cognac round-clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-tan-wrap-flap-organiser-angle",
+      "src": "assets/products/studio-collection/tan-wrap-flap-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-wrap-flap-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Tan wrap-flap organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-tan-wrap-flap-organiser-detail",
+      "src": "assets/products/studio-collection/tan-wrap-flap-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-wrap-flap-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Tan wrap-flap organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-black-rectangular-frame-organiser-angle",
+      "src": "assets/products/studio-collection/black-rectangular-frame-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-rectangular-frame-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Black rectangular-frame organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-black-rectangular-frame-organiser-detail",
+      "src": "assets/products/studio-collection/black-rectangular-frame-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "black-rectangular-frame-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Black rectangular-frame organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-slate-geometric-flap-organiser-angle",
+      "src": "assets/products/studio-collection/slate-geometric-flap-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-geometric-flap-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Slate geometric-flap organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-slate-geometric-flap-organiser-detail",
+      "src": "assets/products/studio-collection/slate-geometric-flap-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-geometric-flap-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Slate geometric-flap organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-chestnut-ribbed-gold-bar-organiser-angle",
+      "src": "assets/products/studio-collection/chestnut-ribbed-gold-bar-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-ribbed-gold-bar-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Chestnut ribbed gold-bar organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-chestnut-ribbed-gold-bar-organiser-detail",
+      "src": "assets/products/studio-collection/chestnut-ribbed-gold-bar-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-ribbed-gold-bar-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Chestnut ribbed gold-bar organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-grey-round-clasp-organiser-angle",
+      "src": "assets/products/studio-collection/grey-round-clasp-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-round-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Grey round-clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-grey-round-clasp-organiser-detail",
+      "src": "assets/products/studio-collection/grey-round-clasp-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-round-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Grey round-clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-grey-gold-bar-clasp-organiser-angle",
+      "src": "assets/products/studio-collection/grey-gold-bar-clasp-organiser-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-gold-bar-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Grey gold-bar clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-grey-gold-bar-clasp-organiser-detail",
+      "src": "assets/products/studio-collection/grey-gold-bar-clasp-organiser-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "grey-gold-bar-clasp-organiser"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Grey gold-bar clasp organiser. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-tan-geometric-circle-elastic-notebook-angle",
+      "src": "assets/products/studio-collection/tan-geometric-circle-elastic-notebook-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-geometric-circle-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Tan geometric-circle elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-tan-geometric-circle-elastic-notebook-detail",
+      "src": "assets/products/studio-collection/tan-geometric-circle-elastic-notebook-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-geometric-circle-elastic-notebook"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Tan geometric-circle elastic notebook. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-chestnut-ribbed-notebook-pen-gift-set-angle",
+      "src": "assets/products/studio-collection/chestnut-ribbed-notebook-pen-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-ribbed-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Chestnut ribbed notebook & pen gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-chestnut-ribbed-notebook-pen-gift-set-detail",
+      "src": "assets/products/studio-collection/chestnut-ribbed-notebook-pen-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "chestnut-ribbed-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Chestnut ribbed notebook & pen gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-slate-flap-notebook-pen-gift-set-angle",
+      "src": "assets/products/studio-collection/slate-flap-notebook-pen-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-flap-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Slate flap notebook & pen gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-slate-flap-notebook-pen-gift-set-detail",
+      "src": "assets/products/studio-collection/slate-flap-notebook-pen-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "slate-flap-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Slate flap notebook & pen gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-tan-wrap-flap-notebook-pen-gift-set-angle",
+      "src": "assets/products/studio-collection/tan-wrap-flap-notebook-pen-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-wrap-flap-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Tan wrap-flap notebook & pen gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-tan-wrap-flap-notebook-pen-gift-set-detail",
+      "src": "assets/products/studio-collection/tan-wrap-flap-notebook-pen-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "tan-wrap-flap-notebook-pen-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Tan wrap-flap notebook & pen gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-sand-ribbed-bottle-two-mug-gift-set-angle",
+      "src": "assets/products/studio-collection/sand-ribbed-bottle-two-mug-gift-set-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-ribbed-bottle-two-mug-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Sand ribbed bottle & two-mug gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-sand-ribbed-bottle-two-mug-gift-set-detail",
+      "src": "assets/products/studio-collection/sand-ribbed-bottle-two-mug-gift-set-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-ribbed-bottle-two-mug-gift-set"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Sand ribbed bottle & two-mug gift set. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count. Keep all gift items inside their original fitted black presentation box. No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-sand-sculpted-lid-ribbed-cup-angle",
+      "src": "assets/products/studio-collection/sand-sculpted-lid-ribbed-cup-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-sculpted-lid-ribbed-cup"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Sand sculpted-lid ribbed cup. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-sand-sculpted-lid-ribbed-cup-detail",
+      "src": "assets/products/studio-collection/sand-sculpted-lid-ribbed-cup-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-sculpted-lid-ribbed-cup"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Sand sculpted-lid ribbed cup. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-espresso-ribbed-travel-cup-angle",
+      "src": "assets/products/studio-collection/espresso-ribbed-travel-cup-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "espresso-ribbed-travel-cup"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Espresso ribbed travel cup. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-espresso-ribbed-travel-cup-detail",
+      "src": "assets/products/studio-collection/espresso-ribbed-travel-cup-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "espresso-ribbed-travel-cup"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Espresso ribbed travel cup. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
+    },
+    {
+      "id": "studio-sand-ribbed-handle-mug-angle",
+      "src": "assets/products/studio-collection/sand-ribbed-handle-mug-angle.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-ribbed-handle-mug"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Sand ribbed handle mug. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce three-quarter angled view of the whole product. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Angled view"
+    },
+    {
+      "id": "studio-sand-ribbed-handle-mug-detail",
+      "src": "assets/products/studio-collection/sand-ribbed-handle-mug-detail.webp",
+      "width": 960,
+      "height": 960,
+      "columns": 1,
+      "rows": 1,
+      "products": [
+        "sand-ribbed-handle-mug"
+      ],
+      "prompt": "Use case: product-mockup. Reference product: Sand ribbed handle mug. Use attached photo as exact product identity. Generate ONE realistic premium studio ecommerce close-up detail view of the visible texture and clasp, or lid/handle for drinkware, or notebook and pen/bottle and mugs for boxed sets. Preserve original colour, material appearance, shape, proportions, hardware, closure and EXACT item count.  No invented features or unseen interiors. Warm ivory seamless studio backdrop, pale cream stone surface, soft daylight, grounded shadow. Remove shop clutter and acrylic stand. Square image, clean margins, no added props, logos, watermark or text.",
+      "label": "Detail view"
     }
   ]
 }
