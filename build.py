@@ -25,6 +25,11 @@ for item in additions:
     })
 
 products = {item['id']: item for item in data['products']}
+product_numbers = json.loads((ROOT / 'product-numbers.json').read_text())
+if len(set(product_numbers.values())) != len(product_numbers):
+    raise ValueError('Product numbers must be unique')
+for product_id, item in products.items():
+    item['productNumber'] = product_numbers[product_id]
 for product_id, item in products.items():
     price = item.get('price')
     regular_price = item.get('regularPrice')
@@ -35,6 +40,12 @@ for product_id, item in products.items():
             raise ValueError(f'Invalid price for {product_id}. Use a positive INR amount with up to two decimal places.')
     if regular_price is not None and (price is None or regular_price <= price):
         raise ValueError(f'Regular price for {product_id} must be above its selling price.')
+    if 'sizePrices' in item:
+        variants = item['sizePrices']
+        if not isinstance(variants, dict) or not variants or any(not isinstance(k,str) or not k or type(v) not in (int,float) or not 0 < v < float('inf') or Decimal(str(v)).as_tuple().exponent < -2 for k,v in variants.items()):
+            raise ValueError(f'Invalid size prices for {product_id}')
+        if price != min(variants.values()):
+            raise ValueError(f'Starting price must match lowest size price for {product_id}')
     if 'gstExtra' in item and type(item['gstExtra']) is not bool:
         raise ValueError(f'gstExtra for {product_id} must be true or false.')
     if item.get('gstExtra') and price is None:
