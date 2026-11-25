@@ -172,7 +172,7 @@ function categoryLink(params,view,id,label){
  }
  const clearsFilter=Object.hasOwn(changes,'q')||Object.hasOwn(changes,'budget');
  const active=(view.selected?.id||'')===id;
- return `<a class="filter-option ${active?'active':''}" href="#${esc(shopPath(params,changes))}"${active&&!clearsFilter?' aria-current="page"':''}>${esc(label)}<span>${clearsFilter?'Browse ':''}${count}</span></a>`;
+ return `<a class="filter-option ${active?'active':''}" href="#${esc(shopPath(params,changes))}"${active&&!clearsFilter?' aria-current="page"':''}>${esc(label)}</a>`;
 }
 function shopPage(params,view){
  const {collection,categories,selected,query,matching,budget,items}=view;
